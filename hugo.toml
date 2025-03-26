@@ -1,0 +1,52 @@
+baseURL = 'http://homelab.:8080/'
+title = 'Tiểu học Đặng Cương'
+
+theme = 'LoveIt'
+defaultContentLanguage = 'vi'
+
+[params]
+  defaultTheme = 'auto'
+  dateFormat = '02/01/2006'
+  [params.list]
+    dateFormat = '02/01'
+  [params.header]
+    [params.header.title]
+      name = 'Tiểu học Đặng Cương'
+      typeIt = true
+  [params.home]
+    [params.home.profile]
+      enable = false
+      title = 'Xin chào'
+      subtitle = 'Chi đoàn Trường Tiều học Đặng Cương'
+      avatarURL = 'images/avatar.webp'
+  [params.author]
+    name = 'admin'
+    email = ''
+    link = ''
+  [params.search]
+    enable = true
+    type = 'lunr'
+
+[menus]
+  [[menu.main]]
+    name = 'Giới thiệu'
+    pageRef = '/posts/gioi-thieu/'
+    weight = 1
+  [[menu.main]]
+    name = 'Cây xanh'
+    pageRef = '/categories/cay-xanh/'
+    weight = 2
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[caches]
+  [caches.images]
+      dir = ':cacheDir/images'
