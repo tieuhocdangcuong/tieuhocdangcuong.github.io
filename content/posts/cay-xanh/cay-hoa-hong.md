@@ -85,28 +85,28 @@ Việc chăm sóc đúng cách sẽ giúp cây hoa hồng phát triển khỏe m
            caption="Hoa hồng đỏ rực rỡ"
            src_s="https://hoavily.com/uploads/file/gian-hoa-hong-do.jpg"
            src_l="https://hoavily.com/uploads/file/gian-hoa-hong-do.jpg"
-           width="960" height="640" >}}
+           width="1080" height="480" >}}
 
 {{< image src="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
            alt="Hoa hồng trắng"
            caption="Hoa hồng trắng tinh khôi"
            src_s="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
            src_l="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
-           width="960" height="640" >}}
+           width="1080" height="480" >}}
 
 {{< image src="https://s.rfi.fr/media/display/94eaf70e-0ea3-11ea-8c79-005056a9aa4d/w:980/p:16x9/roserai2_val_de_marne.webp"
            alt="Vườn hoa hồng"
            caption="Vườn hồng L'Haÿ les Roses, ngoại ô Paris"
            src_s="https://s.rfi.fr/media/display/94eaf70e-0ea3-11ea-8c79-005056a9aa4d/w:980/p:16x9/roserai2_val_de_marne.webp"
            src_l="hhttps://s.rfi.fr/media/display/94eaf70e-0ea3-11ea-8c79-005056a9aa4d/w:980/p:16x9/roserai2_val_de_marne.webp"
-           width="960" height="640" >}}
+           width="1080" height="480" >}}
 
 {{< image src="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
            alt="Bụi hoa hồng"
            caption="Bụi hoa hồng đang nở"
            src_s="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
            src_l="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
-           width="960" height="640" >}}
+           width="1080" height="480" >}}
 
 
 ## Xem thêm
