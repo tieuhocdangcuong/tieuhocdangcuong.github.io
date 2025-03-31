@@ -1,42 +1,61 @@
-+++
-title = 'Chương trình "Tìm hiểu về các loại cây xanh"'
-date = 2025-03-27T08:46:23+07:00
-featuredImage = 'banner.jpg'
-summary = 'Chi đoàn trường Tiểu học Đặng Cương tổ chức chương trình **"Tìm hiểu về các loại cây xanh"** nhằm nâng cao nhận thức của học sinh về vai trò của cây xanh đối với môi trường và cuộc sống. Thông qua chương trình này, các em sẽ có cơ hội tiếp cận với kiến thức bổ ích và trải nghiệm thực tế thú vị.'
-weight = 1
-+++
 
-# Chương Trình Tìm Hiểu Về Các Loại Cây Xanh
+# 🌿 CÔNG TRÌNH THANH NIÊN - CHI ĐOÀN TRƯỜNG TIỂU HỌC ĐẶNG CƯƠNG
 
-## Giới Thiệu
-Chi đoàn trường Tiểu học Đặng Cương tổ chức chương trình **"Tìm hiểu về các loại cây xanh"** nhằm nâng cao nhận thức của học sinh về vai trò của cây xanh đối với môi trường và cuộc sống. Thông qua chương trình này, các em sẽ có cơ hội tiếp cận với kiến thức bổ ích và trải nghiệm thực tế thú vị.
+## 💡 Giới thiệu dự án
 
-## Mục Tiêu Chương Trình
-- Giúp học sinh nhận biết các loại cây xanh phổ biến.
-- Nâng cao ý thức bảo vệ cây xanh và môi trường.
-- Rèn luyện kỹ năng quan sát, tìm hiểu thiên nhiên.
-- Khuyến khích tinh thần yêu thích khoa học và khám phá.
+**"Mỗi loài cây là một câu chuyện"** – đó là thông điệp chính của **Công trình thanh niên do Chi đoàn Trường Tiểu học Đặng Cương** (huyện An Dương, TP. Hải Phòng) triển khai với mục tiêu:
 
-## Nội Dung Chương Trình
-1. **Giới thiệu chung về cây xanh**: Cấu tạo, vai trò và lợi ích của cây xanh.
-2. **Phân loại cây xanh**: Cây bóng mát, cây ăn quả, cây hoa, cây thuốc,…
-3. **Hoạt động thực tế**:
-   - Quan sát và nhận diện cây xanh trong khuôn viên trường.
-   - Chơi trò chơi nhận biết cây qua hình ảnh.
-   - Hướng dẫn cách trồng và chăm sóc cây xanh.
-4. **Thi đua và tổng kết**:
-   - Trả lời câu hỏi, đố vui về cây xanh.
-   - Tuyên dương học sinh xuất sắc trong hoạt động.
-   
-## Thời Gian và Địa Điểm
-- **Thời gian**: (Điền thời gian cụ thể)
-- **Địa điểm**: Trường Tiểu học Đặng Cương
-
-## Đối Tượng Tham Gia
-Toàn bộ học sinh của trường, đặc biệt là các thành viên chi đoàn.
-
-## Kết Luận
-Chương trình **"Tìm hiểu về các loại cây xanh"** không chỉ giúp học sinh mở rộng kiến thức mà còn góp phần xây dựng ý thức bảo vệ thiên nhiên. Chi đoàn mong nhận được sự hưởng ứng nhiệt tình từ các em học sinh và sự hỗ trợ từ các thầy cô giáo.
+> ✅ Số hóa thông tin cây xanh trong khuôn viên trường  
+> ✅ Tạo nguồn học liệu số phong phú, hấp dẫn cho học sinh  
+> ✅ Góp phần nâng cao ý thức bảo vệ môi trường và đẩy mạnh chuyển đổi số trong nhà trường
 
 ---
-*Mọi thắc mắc vui lòng liên hệ ban tổ chức chương trình.*
+
+## 📱 Nội dung công trình
+
+Công trình được thực hiện thông qua các bước chính:
+
+1. **Khảo sát, đánh mã QR cho từng loại cây** trong sân trường (gồm 23 loại cây phổ biến, đặc trưng)
+2. **Xây dựng hồ sơ số cho từng loại cây**, gồm:  
+   - Tên gọi, tên khoa học  
+   - Đặc điểm, nguồn gốc  
+   - Khu vực trồng, mùa ra hoa  
+   - Ý nghĩa, biểu tượng  
+   - Cách trồng và chăm sóc cây  
+   - Hình ảnh minh họa  
+3. **Thiết kế mã QR riêng cho từng cây** và gắn trực tiếp tại vị trí cây ngoài thực tế
+4. **Tạo một website tổng hợp** các loại cây – nơi học sinh, giáo viên và phụ huynh có thể tra cứu, tìm hiểu nhanh chóng
+
+---
+
+## 🎯 Lợi ích của dự án
+
+- 👧 Giúp **học sinh dễ dàng tìm hiểu thông tin các loại cây xanh** ngay trong khuôn viên trường  
+- 🌳 **Khơi dậy tình yêu thiên nhiên**, ý thức bảo vệ môi trường trong học sinh  
+- 🧠 **Cung cấp kiến thức thực tiễn về sinh học, kỹ năng trồng - chăm sóc cây xanh**  
+- 💻 **Ứng dụng công nghệ mã QR và website**, đẩy mạnh hoạt động **chuyển đổi số trong giáo dục**
+
+---
+
+## 💪 Tinh thần đoàn viên
+
+Công trình thể hiện rõ vai trò xung kích, sáng tạo của **đoàn viên giáo viên trong *kỷ nguyên vươn mình của dân tộc*** – giai đoạn mà **chuyển đổi số đóng vai trò then chốt trong sự nghiệp giáo dục**. Đây không chỉ là bước tiến công nghệ, mà còn là sự chuyển mình về nhận thức, hành động, và cách giáo dục thế hệ tương lai, từ những điều gần gũi nhất như một… chiếc lá, một cái cây.
+
+Công trình góp phần tích cực vào xây dựng môi trường giáo dục **xanh – sạch – đẹp – hiện đại**, đồng thời lan tỏa tinh thần đổi mới trong toàn thể cán bộ, giáo viên và học sinh Trường Tiểu học Đặng Cương.
+
+---
+
+## 📌 Định hướng mở rộng
+
+Trong thời gian tới, Chi đoàn tiếp tục:
+- Cập nhật thêm nội dung đa phương tiện (video, âm thanh mô tả cây)
+- Mở rộng thành **kho học liệu xanh số hóa**
+- Tổ chức hoạt động trải nghiệm “Em yêu cây xanh” cho học sinh các khối
+
+---
+
+## 🌱 Kết luận
+
+**Công trình thanh niên "Số hóa cây xanh"** không chỉ là hoạt động mang tính kỹ thuật, mà còn là **một giải pháp giáo dục xanh – thông minh – bền vững**, giúp học sinh gắn bó với môi trường học đường và hình thành ý thức sống hài hòa với thiên nhiên từ khi còn nhỏ.
+
+> 💚 Cùng chung tay lan tỏa tình yêu cây xanh – bảo vệ môi trường – ứng dụng công nghệ vì một ngôi trường thân thiện, hiện đại!
