@@ -19,7 +19,7 @@ date = 2025-03-27T08:46:23+07:00
 
 Công trình được thực hiện thông qua các bước chính:
 
-1. **Khảo sát, đánh mã QR cho từng loại cây** trong sân trường
+1. **Khảo sát, đánh mã QR cho từng loại cây** trong sân trường  
 2. **Xây dựng hồ sơ số cho từng loại cây**, gồm:  
    - Tên gọi, tên khoa học  
    - Đặc điểm, nguồn gốc  
@@ -27,7 +27,7 @@ Công trình được thực hiện thông qua các bước chính:
    - Ý nghĩa, biểu tượng  
    - Cách trồng và chăm sóc cây  
    - Hình ảnh minh họa  
-3. **Thiết kế mã QR riêng cho từng cây** và gắn trực tiếp tại vị trí cây ngoài thực tế
+3. **Thiết kế mã QR riêng cho từng cây** và gắn trực tiếp tại vị trí cây ngoài thực tế  
 4. **Tạo một website tổng hợp** các loại cây – nơi học sinh, giáo viên và phụ huynh có thể tra cứu, tìm hiểu nhanh chóng
 
 ---
@@ -45,15 +45,15 @@ Công trình được thực hiện thông qua các bước chính:
 
 Công trình thể hiện rõ vai trò xung kích, sáng tạo của **đoàn viên giáo viên trong *"kỷ nguyên vươn mình của dân tộc"*** – giai đoạn mà **chuyển đổi số đóng vai trò then chốt trong sự nghiệp giáo dục**. Đây không chỉ là bước tiến công nghệ, mà còn là sự chuyển mình về nhận thức, hành động, và cách giáo dục thế hệ tương lai, từ những điều gần gũi nhất.
 
-Công trình góp phần tích cực vào xây dựng môi trường giáo dục **xanh – sạch – đẹp – hiện đại - an toàn**, đồng thời lan tỏa tinh thần đổi mới trong toàn thể cán bộ, giáo viên và học sinh Trường Tiểu học Đặng Cương.
+Công trình góp phần tích cực vào xây dựng môi trường giáo dục **xanh – sạch – đẹp – hiện đại – an toàn**, đồng thời lan tỏa tinh thần đổi mới trong toàn thể cán bộ, giáo viên và học sinh Trường Tiểu học Đặng Cương.
 
 ---
 
 ## 📌 Định hướng mở rộng
 
 Trong thời gian tới, Chi đoàn tiếp tục:
-- Cập nhật thêm nội dung đa phương tiện (video, âm thanh mô tả cây)
-- Mở rộng thành **kho học liệu xanh số hóa**
+- Cập nhật thêm nội dung đa phương tiện (video, âm thanh mô tả cây)  
+- Mở rộng thành **kho học liệu xanh số hóa**  
 - Tổ chức hoạt động trải nghiệm “Em yêu cây xanh” cho học sinh các khối
 
 ---
