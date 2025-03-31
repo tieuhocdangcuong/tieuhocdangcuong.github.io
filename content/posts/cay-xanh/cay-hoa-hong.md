@@ -56,6 +56,26 @@ Từ "hồng" trong tiếng Việt chỉ màu đỏ – màu truyền thống v�
 
 Hoa hồng là biểu tượng của tình yêu và vẻ đẹp trong nhiều nền văn hóa. Trong "Cuộc chiến Hoa Hồng" ở Anh thế kỷ 15, hoa hồng trắng tượng trưng cho nhà York, còn hoa hồng đỏ cho nhà Lancaster. Ngày nay, hoa hồng là biểu tượng quen thuộc trong thơ ca, hội họa, lễ tình nhân và nghệ thuật hiện đại.
 
+
+## Cách trồng và chăm sóc
+
+### Trồng cây
+
+- **Chọn giống**: Lựa chọn giống hoa hồng phù hợp với điều kiện khí hậu và không gian trồng (hoa hồng leo, hoa hồng bụi, hoa hồng thân gỗ…).
+- **Đất trồng**: Đất tơi xốp, giàu dinh dưỡng, thoát nước tốt. Có thể trộn đất với phân chuồng hoai mục, xơ dừa và tro trấu.
+- **Vị trí trồng**: Nơi có nhiều ánh sáng mặt trời (ít nhất 6 giờ mỗi ngày).
+- **Khoảng cách trồng**: Cây cách cây khoảng 50–70 cm tùy loại giống.
+
+### Chăm sóc
+
+- **Tưới nước**: Tưới đều đặn vào sáng sớm hoặc chiều mát. Không nên tưới lên lá, hoa để tránh nấm bệnh.
+- **Bón phân**: Bón phân hữu cơ định kỳ 15–20 ngày/lần. Có thể sử dụng phân NPK, phân trùn quế hoặc phân vi sinh.
+- **Tỉa cành**: Cắt bỏ cành già, cành sâu bệnh, hoa tàn để cây ra nhiều hoa mới.
+- **Phòng trừ sâu bệnh**: Theo dõi và xử lý các loại bệnh thường gặp như rỉ sắt, phấn trắng, nhện đỏ bằng biện pháp sinh học hoặc thuốc bảo vệ thực vật an toàn.
+
+Việc chăm sóc đúng cách sẽ giúp cây hoa hồng phát triển khỏe mạnh, cho hoa đẹp và kéo dài tuổi thọ của cây.
+
+
 ## Xem thêm
 
 - [Hoa hồng trên Wikipedia](https://vi.wikipedia.org/wiki/Hoa_hồng)
