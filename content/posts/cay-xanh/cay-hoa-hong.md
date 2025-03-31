@@ -94,11 +94,11 @@ Việc chăm sóc đúng cách sẽ giúp cây hoa hồng phát triển khỏe m
            src_l="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
            width="1080" height="480" >}}
 
-{{< image src="https://s.rfi.fr/media/display/94eaf70e-0ea3-11ea-8c79-005056a9aa4d/w:980/p:16x9/roserai2_val_de_marne.webp"
+{{< image src="https://media.vietravel.com/images/Content/mua-hoa-hong-o-phap-3.png"
            alt="Vườn hoa hồng"
            caption="Vườn hồng L'Haÿ les Roses, ngoại ô Paris"
-           src_s="https://s.rfi.fr/media/display/94eaf70e-0ea3-11ea-8c79-005056a9aa4d/w:980/p:16x9/roserai2_val_de_marne.webp"
-           src_l="hhttps://s.rfi.fr/media/display/94eaf70e-0ea3-11ea-8c79-005056a9aa4d/w:980/p:16x9/roserai2_val_de_marne.webp"
+           src_s="https://media.vietravel.com/images/Content/mua-hoa-hong-o-phap-3.png"
+           src_l="https://media.vietravel.com/images/Content/mua-hoa-hong-o-phap-3.png"
            width="1080" height="480" >}}
 
 {{< image src="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
