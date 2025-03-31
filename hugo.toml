@@ -11,13 +11,13 @@ defaultContentLanguage = 'vi'
     dateFormat = '02/01'
   [params.header]
     [params.header.title]
-      name = 'Chi đoàn Trường Tiều học Đặng Cương'
+      name = 'Chi đoàn Trường Tiểu học Đặng Cương'
       typeIt = true
   [params.home]
     [params.home.profile]
       enable = false
       title = 'Xin chào'
-      subtitle = 'Chi đoàn Trường Tiều học Đặng Cương'
+      subtitle = 'Chi đoàn Trường Tiểu học Đặng Cương'
       avatarURL = 'images/avatar.webp'
   [params.author]
     name = 'admin'
