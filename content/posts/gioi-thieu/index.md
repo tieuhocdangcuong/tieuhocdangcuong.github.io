@@ -3,7 +3,7 @@
 
 ## 💡 Giới thiệu dự án
 
-**"Mỗi loài cây là một câu chuyện"** – đó là thông điệp chính của **Công trình thanh niên do Chi đoàn Trường Tiểu học Đặng Cương** (huyện An Dương, TP. Hải Phòng) triển khai với mục tiêu:
+**"Mỗi loài cây là một câu chuyện"** – **Công trình thanh niên do Chi đoàn Trường Tiểu học Đặng Cương** (quận An Dương, TP. Hải Phòng) triển khai với mục tiêu:
 
 > ✅ Số hóa thông tin cây xanh trong khuôn viên trường  
 > ✅ Tạo nguồn học liệu số phong phú, hấp dẫn cho học sinh  
@@ -15,7 +15,7 @@
 
 Công trình được thực hiện thông qua các bước chính:
 
-1. **Khảo sát, đánh mã QR cho từng loại cây** trong sân trường (gồm 23 loại cây phổ biến, đặc trưng)
+1. **Khảo sát, đánh mã QR cho từng loại cây** trong sân trường.
 2. **Xây dựng hồ sơ số cho từng loại cây**, gồm:  
    - Tên gọi, tên khoa học  
    - Đặc điểm, nguồn gốc  
@@ -39,9 +39,9 @@ Công trình được thực hiện thông qua các bước chính:
 
 ## 💪 Tinh thần đoàn viên
 
-Công trình thể hiện rõ vai trò xung kích, sáng tạo của **đoàn viên giáo viên trong *kỷ nguyên vươn mình của dân tộc*** – giai đoạn mà **chuyển đổi số đóng vai trò then chốt trong sự nghiệp giáo dục**. Đây không chỉ là bước tiến công nghệ, mà còn là sự chuyển mình về nhận thức, hành động, và cách giáo dục thế hệ tương lai, từ những điều gần gũi nhất như một… chiếc lá, một cái cây.
+Công trình thể hiện rõ vai trò xung kích, sáng tạo của **đoàn viên giáo viên trong *"kỷ nguyên vươn mình của dân tộc"*** – giai đoạn mà **chuyển đổi số đóng vai trò then chốt trong sự nghiệp giáo dục**. Đây không chỉ là bước tiến công nghệ, mà còn là sự chuyển mình về nhận thức, hành động, và cách giáo dục thế hệ tương lai, từ những điều gần gũi nhất.
 
-Công trình góp phần tích cực vào xây dựng môi trường giáo dục **xanh – sạch – đẹp – hiện đại**, đồng thời lan tỏa tinh thần đổi mới trong toàn thể cán bộ, giáo viên và học sinh Trường Tiểu học Đặng Cương.
+Công trình góp phần tích cực vào xây dựng môi trường giáo dục **xanh – sạch – đẹp – hiện đại - an toàn**, đồng thời lan tỏa tinh thần đổi mới trong toàn thể cán bộ, giáo viên và học sinh Trường Tiểu học Đặng Cương.
 
 ---
 
@@ -56,6 +56,6 @@ Trong thời gian tới, Chi đoàn tiếp tục:
 
 ## 🌱 Kết luận
 
-**Công trình thanh niên "Số hóa cây xanh"** không chỉ là hoạt động mang tính kỹ thuật, mà còn là **một giải pháp giáo dục xanh – thông minh – bền vững**, giúp học sinh gắn bó với môi trường học đường và hình thành ý thức sống hài hòa với thiên nhiên từ khi còn nhỏ.
+**Công trình thanh niên "Số hóa cây xanh"** là **một giải pháp giáo dục xanh – thông minh – bền vững**, giúp học sinh gắn bó với môi trường học đường và hình thành ý thức sống hài hòa với thiên nhiên từ khi còn nhỏ.
 
 > 💚 Cùng chung tay lan tỏa tình yêu cây xanh – bảo vệ môi trường – ứng dụng công nghệ vì một ngôi trường thân thiện, hiện đại!
