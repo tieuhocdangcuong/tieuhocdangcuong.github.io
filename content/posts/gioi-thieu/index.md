@@ -1,6 +1,9 @@
 +++
+title = 'Giới thiệu dự án'
+summary = '“Mỗi loài cây là một câu chuyện” – Công trình thanh niên do Chi đoàn Trường Tiểu học Đặng Cương (quận An Dương, TP. Hải Phòng) triển khai.'
 featuredImage = 'banner.jpg'
 date = 2025-03-27T08:46:23+07:00
+weight = 1
 +++
 
 # 🌿 CÔNG TRÌNH THANH NIÊN - CHI ĐOÀN TRƯỜNG TIỂU HỌC ĐẶNG CƯƠNG
