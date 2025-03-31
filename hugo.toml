@@ -11,7 +11,7 @@ defaultContentLanguage = 'vi'
     dateFormat = '02/01'
   [params.header]
     [params.header.title]
-      name = 'Tiểu học Đặng Cương'
+      name = 'Chi đoàn Trường Tiều học Đặng Cương'
       typeIt = true
   [params.home]
     [params.home.profile]
