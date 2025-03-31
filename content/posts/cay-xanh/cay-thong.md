@@ -68,7 +68,7 @@ Thông là biểu tượng của mùa đông và lễ Giáng Sinh ở phương T
 
 ## Một số hình ảnh
 
-![Cây thông 1](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191738523733.jpg))
+![Cây thông 1](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191738523733.jpg)
 ![Cây thông 2](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191739520991.jpg)
 ![Rừng thông Đà Lạt](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191741146276.jpg)
 
