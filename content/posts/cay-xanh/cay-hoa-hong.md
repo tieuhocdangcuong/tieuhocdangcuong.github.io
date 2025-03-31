@@ -76,6 +76,15 @@ Hoa hồng là biểu tượng của tình yêu và vẻ đẹp trong nhiều n�
 Việc chăm sóc đúng cách sẽ giúp cây hoa hồng phát triển khỏe mạnh, cho hoa đẹp và kéo dài tuổi thọ của cây.
 
 
+
+## Một số hình ảnh
+
+![Hoa hồng 1](https://sfarm.vn/wp-content/uploads/2019/03/bon-phan-gi-cho-hoa-hong-1.jpg)
+![Hoa hồng 2](https://sfarm.vn/wp-content/uploads/2019/03/bon-phan-gi-cho-hoa-hong-3-1.jpg)
+![Hoa hồng 3](https://sfarm.vn/wp-content/uploads/2019/03/bon-phan-gi-cho-hoa-hong-5.jpg)
+![Hoa hồng 4](https://caygiongnongnghiep.com.vn/wp-content/uploads/2018/12/cat-tia-hoa-hong-tree-rose.jpg)
+
+
 ## Xem thêm
 
 - [Hoa hồng trên Wikipedia](https://vi.wikipedia.org/wiki/Hoa_hồng)
