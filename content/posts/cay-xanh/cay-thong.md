@@ -2,7 +2,7 @@
 title = 'Cây thông'
 date = 2025-03-28T14:10:00+07:00
 summary = 'Cây thông là loài cây thân gỗ lá kim, thường xanh quanh năm, được trồng nhiều ở vùng đồi núi và có giá trị sinh thái, cảnh quan cao.'
-featuredImage = 'https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-t…ai-thong-la-kim-o-viet-nam-202207071516327778.jpg'
+featuredImage = 'https://vuoncayviet.com/wp-content/uploads/2022/03/cay-thong.jpg'
 categories = ['cay-xanh']
 tags = ['cay-than-go', 'la-kim']
 +++
@@ -64,6 +64,14 @@ Thông là biểu tượng của mùa đông và lễ Giáng Sinh ở phương T
 - **Làm cỏ – xới gốc**: Dọn cỏ, vun xới quanh gốc giúp đất tơi và giữ ẩm.
 - **Bón phân**: Bón thúc bằng phân hữu cơ hoặc phân NPK sau 3–6 tháng trồng.
 - **Phòng sâu bệnh**: Ít sâu bệnh, nhưng cần theo dõi sâu đục thân, mối – có thể dùng biện pháp sinh học hoặc thuốc bảo vệ thực vật phù hợp.
+
+
+## Một số hình ảnh
+
+![Cây thông 1](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-t…ai-thong-la-kim-o-viet-nam-202205191738523733.jpg)
+![Cây thông 2](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191739520991.jpg)
+![Rừng thông Đà Lạt](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191741146276.jpg)
+
 
 ## Xem thêm
 
