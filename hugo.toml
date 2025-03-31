@@ -1,5 +1,5 @@
 baseURL = 'http://homelab.:8080/'
-title = 'Tiểu học Đặng Cương'
+title = 'Chi đoàn Trường Tiểu học Đặng Cương'
 
 theme = 'LoveIt'
 defaultContentLanguage = 'vi'
