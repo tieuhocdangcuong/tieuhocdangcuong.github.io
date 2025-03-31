@@ -4,7 +4,7 @@ date = 2025-03-28T14:10:00+07:00
 summary = 'Cây thông là loài cây thân gỗ lá kim, thường xanh quanh năm, được trồng nhiều ở vùng đồi núi và có giá trị sinh thái, cảnh quan cao.'
 featuredImage = 'https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202207071516327778.jpg'
 categories = ['cay-xanh']
-tags = ['cay-than-go', 'la-kim']
+tags = ['Cây thân gỗ', 'Lá kim']
 +++
 
 ## Mô tả chung
@@ -68,10 +68,33 @@ Thông là biểu tượng của mùa đông và lễ Giáng Sinh ở phương T
 
 ## Một số hình ảnh
 
-![Cây thông 1](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191738523733.jpg)
-![Cây thông 2](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191739520991.jpg)
-![Cây thông 3](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202207071608240118.jpg)
-![Rừng thông Đà Lạt](https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202205191741146276.jpg)
+{{< image src="https://upload.wikimedia.org/wikipedia/commons/1/17/Pinus_densiflora3.jpg"
+           alt="Cây thông đỏ"
+           caption="Cây thông đỏ tại Hàn Quốc"
+           src_s="https://cdn.tgdd.vn/Files/2020/12/24/1315825/tinh-dau-thong-do-han-quoc-co-tac-dung-gi-mua-o-dau-202012241431234163.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2020/12/24/1315825/tinh-dau-thong-do-han-quoc-co-tac-dung-gi-mua-o-dau-202012241431234163.jpg"
+           width="300" height="200" >}}
+
+{{< image src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Pinus_nigra.jpg"
+           alt="Cây thông đen"
+           caption="Thông đen ở châu Âu"
+           src_s="https://cdn.baohatinh.vn/images/e0d995750f8b712a7077695e091bdd34ef48698ef182f5a3b9a3139ed7fedb4c3c60fbeff32c633117c7ed0783fec432/77d6061353t9811l2.jpg"
+           src_l="https://cdn.baohatinh.vn/images/e0d995750f8b712a7077695e091bdd34ef48698ef182f5a3b9a3139ed7fedb4c3c60fbeff32c633117c7ed0783fec432/77d6061353t9811l2.jpg"
+           width="300" height="200" >}}
+
+{{< image src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Dalat_Pine_Forest.jpg"
+           alt="Rừng thông Đà Lạt"
+           caption="Rừng thông nổi tiếng tại Đà Lạt"
+           src_s="https://images.spiderum.com/sp-images/ce122ff0bada11ef963d7ddd8a6c8c2a.jpeg"
+           src_l="https://images.spiderum.com/sp-images/ce122ff0bada11ef963d7ddd8a6c8c2a.jpeg"
+           width="300" height="200" >}}
+
+{{< image src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pinus_roxburghii.jpg"
+           alt="Cây thông Himalaya"
+           caption="Thông Himalaya (Pinus roxburghii)"
+           src_s="https://www.conifers.org/pi/pi/w/wallichiana05.jpg"
+           src_l="https://www.conifers.org/pi/pi/w/wallichiana05.jpg"
+           width="300" height="200" >}}
 
 
 ## Xem thêm
