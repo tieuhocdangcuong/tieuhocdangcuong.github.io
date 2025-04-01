@@ -2,7 +2,7 @@
 title = 'Cây Nhãn'
 date = 2025-03-26T17:40:00+07:00
 summary = 'Cây Nhãn là cây ăn quả nhiệt đới phổ biến tại Việt Nam, cho quả ngọt và giá trị kinh tế cao.'
-featuredImage = 'https://cayantrai.vn/wp-content/uploads/2020/05/cay-nhan-long.jpg'
+featuredImage = 'https://thienhawto.com.vn/public/upload/anhchungnhan/N%E1%BB%99i%20dung%20%C4%91o%E1%BA%A1n%20v%C4%83n%20b%E1%BA%A3n%20c%E1%BB%A7a%20b%E1%BA%A1n%20(89).jpg'
 categories = ['cay-xanh']
 tags = ['Cây ăn quả', 'Cây truyền thống', 'Cây kinh tế']
 +++
@@ -63,18 +63,18 @@ Quả nhãn là đặc sản của nhiều vùng, gắn liền với văn hóa �
 
 ## Một số hình ảnh
 
-{{< image src="https://cayantrai.vn/wp-content/uploads/2020/05/cay-nhan-long.jpg"
+{{< image src="https://inkythuatso.com/uploads/thumbnails/800/2023/03/1-hinh-anh-cay-nhan-sai-qua-inkythuatso-27-09-33-22.jpg"
            alt="Cây Nhãn trưởng thành"
            caption="Cây Nhãn trưởng thành với tán lá rộng và quả sai trĩu"
-           src_s="https://cayantrai.vn/wp-content/uploads/2020/05/cay-nhan-long.jpg"
-           src_l="https://cayantrai.vn/wp-content/uploads/2020/05/cay-nhan-long.jpg"
+           src_s="https://inkythuatso.com/uploads/thumbnails/800/2023/03/1-hinh-anh-cay-nhan-sai-qua-inkythuatso-27-09-33-22.jpg"
+           src_l="https://inkythuatso.com/uploads/thumbnails/800/2023/03/1-hinh-anh-cay-nhan-sai-qua-inkythuatso-27-09-33-22.jpg"
            width="100%" >}}
 
-{{< image src="https://inkythuatso.com/uploads/thumbnails/800/2021/10/hinh-anh-cay-nhan-19-10-15-38-48.jpg"
+{{< image src="https://www.khoeplus24h.vn/wp-content/uploads/2022/09/qua-nhan-la-gi-tac-dung-va-cach-chon-mua-nhan-tuoi-ngon-cui-day-10.jpg"
            alt="Quả nhãn chín"
            caption="Quả nhãn chín mọng, cùi trắng trong, hạt đen bóng"
-           src_s="https://inkythuatso.com/uploads/thumbnails/800/2021/10/hinh-anh-cay-nhan-19-10-15-38-48.jpg"
-           src_l="https://inkythuatso.com/uploads/thumbnails/800/2021/10/hinh-anh-cay-nhan-19-10-15-38-48.jpg"
+           src_s="https://www.khoeplus24h.vn/wp-content/uploads/2022/09/qua-nhan-la-gi-tac-dung-va-cach-chon-mua-nhan-tuoi-ngon-cui-day-10.jpg"
+           src_l="https://www.khoeplus24h.vn/wp-content/uploads/2022/09/qua-nhan-la-gi-tac-dung-va-cach-chon-mua-nhan-tuoi-ngon-cui-day-10.jpg"
            width="100%" >}}
 
 ## Xem thêm
