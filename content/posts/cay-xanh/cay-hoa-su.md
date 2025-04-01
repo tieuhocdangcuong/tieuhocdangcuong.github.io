@@ -2,7 +2,7 @@
 title = 'Cây Hoa Sứ'
 date = 2025-03-26T21:20:00+07:00
 summary = 'Cây Hoa Sứ (cây Đại) là cây hoa thân gỗ được ưa chuộng nhờ vẻ đẹp sang trọng, hoa thơm, ý nghĩa phong thủy về sự thịnh vượng và trường thọ.'
-featuredImage = 'https://tse3.mm.bing.net/th?id=OIP.y8vEKGu_wKFWIinju7HLNwHaGX&pid=Api'
+featuredImage = 'https://cdn.tgdd.vn/Files/2021/08/02/1372507/cach-trong-y-nghia-va-cong-dung-bat-ngo-it-ai-biet-cua-cay-hoa-su-202108021542235792.jpg'
 categories = ['cay-xanh']
 tags = ['Cây hoa', 'Cây phong thủy', 'Cây cảnh']
 +++
@@ -63,18 +63,18 @@ Tại Lào, hoa sứ là quốc hoa. Ở Việt Nam, thường thấy trong khu�
 
 ## Một số hình ảnh
 
-{{< image src="https://tse3.mm.bing.net/th?id=OIP.daRzLK6bjszU6lzBQ0OfIAHaET&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/08/02/1372507/cach-trong-y-nghia-va-cong-dung-bat-ngo-it-ai-biet-cua-cay-hoa-su-202108021551554822.jpg"
            alt="Cây Hoa Sứ đỏ"
            caption="Cây Hoa Sứ với hoa đỏ rực rỡ và dáng đẹp"
-           src_s="https://tse3.mm.bing.net/th?id=OIP.daRzLK6bjszU6lzBQ0OfIAHaET&pid=Api"
-           src_l="https://tse3.mm.bing.net/th?id=OIP.daRzLK6bjszU6lzBQ0OfIAHaET&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/08/02/1372507/cach-trong-y-nghia-va-cong-dung-bat-ngo-it-ai-biet-cua-cay-hoa-su-202108021551554822.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/08/02/1372507/cach-trong-y-nghia-va-cong-dung-bat-ngo-it-ai-biet-cua-cay-hoa-su-202108021551554822.jpg"
            width="100%" >}}
 
-{{< image src="https://tse2.mm.bing.net/th?id=OIP.NMWpQOWsE9XViJrugFAK0wHaFP&pid=Api"
+{{< image src="https://media-cdn-v2.laodong.vn/storage/newsportal/2024/5/4/1335717/Hoa-Su-8.jpg"
            alt="Cây Hoa Sứ trắng"
            caption="Cây Hoa Sứ trắng tinh khiết, được trồng phổ biến trong sân chùa"
-           src_s="https://tse2.mm.bing.net/th?id=OIP.NMWpQOWsE9XViJrugFAK0wHaFP&pid=Api"
-           src_l="https://tse2.mm.bing.net/th?id=OIP.NMWpQOWsE9XViJrugFAK0wHaFP&pid=Api"
+           src_s="https://media-cdn-v2.laodong.vn/storage/newsportal/2024/5/4/1335717/Hoa-Su-8.jpg"
+           src_l="https://media-cdn-v2.laodong.vn/storage/newsportal/2024/5/4/1335717/Hoa-Su-8.jpg"
            width="100%" >}}
 
 ## Xem thêm
