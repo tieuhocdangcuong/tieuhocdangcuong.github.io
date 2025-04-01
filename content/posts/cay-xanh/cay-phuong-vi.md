@@ -2,7 +2,7 @@
 title = 'Cây Phượng Vĩ'
 date = 2025-03-26T19:30:00+07:00
 summary = 'Cây Phượng Vĩ là loài cây bóng mát nổi bật với sắc đỏ rực rỡ, biểu tượng gắn liền với tuổi học trò và mùa hè tại Việt Nam.'
-featuredImage = 'https://tse2.mm.bing.net/th?id=OIP.vgSCQTOZ9jFNKJGw02EisgHaE8&pid=Api'
+featuredImage = 'https://kenh14cdn.com/thumb_w/660/203336854389633024/2024/5/19/photo-10-1716126376774384385428.jpg'
 categories = ['cay-xanh']
 tags = ['Cây bóng mát', 'Cây biểu tượng', 'Cây hoa đỏ']
 +++
@@ -63,18 +63,18 @@ Cây Phượng Vĩ là biểu tượng của học sinh, tuổi học trò, mùa
 
 ## Một số hình ảnh
 
-{{< image src="https://tse2.mm.bing.net/th?id=OIP.vgSCQTOZ9jFNKJGw02EisgHaE8&pid=Api"
+{{< image src="https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/482752FyE/anh-mo-ta.png"
            alt="Cây phượng vĩ nở hoa đỏ rực"
            caption="Cây phượng vĩ trong sân trường với hoa đỏ rực rỡ"
-           src_s="https://tse2.mm.bing.net/th?id=OIP.vgSCQTOZ9jFNKJGw02EisgHaE8&pid=Api"
-           src_l="https://tse2.mm.bing.net/th?id=OIP.vgSCQTOZ9jFNKJGw02EisgHaE8&pid=Api"
+           src_s="https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/482752FyE/anh-mo-ta.png"
+           src_l="https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/482752FyE/anh-mo-ta.png"
            width="100%" >}}
 
-{{< image src="https://tse3.mm.bing.net/th?id=OIP.8EdiOlNBuc8jNldhBj1mmwHaFj&pid=Api"
+{{< image src="https://hoangyen.group/wp-content/uploads/2024/07/top-hoa-cua-mua-he-hoa-phuong-vi.jpg"
            alt="Hoa phượng vĩ cận cảnh"
            caption="Cận cảnh hoa phượng đỏ rực – biểu tượng tuổi học trò"
-           src_s="https://tse3.mm.bing.net/th?id=OIP.8EdiOlNBuc8jNldhBj1mmwHaFj&pid=Api"
-           src_l="https://tse3.mm.bing.net/th?id=OIP.8EdiOlNBuc8jNldhBj1mmwHaFj&pid=Api"
+           src_s="https://hoangyen.group/wp-content/uploads/2024/07/top-hoa-cua-mua-he-hoa-phuong-vi.jpg"
+           src_l="https://hoangyen.group/wp-content/uploads/2024/07/top-hoa-cua-mua-he-hoa-phuong-vi.jpg"
            width="100%" >}}
 
 ## Xem thêm
