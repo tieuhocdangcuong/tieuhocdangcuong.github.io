@@ -2,7 +2,7 @@
 title = 'Cây Lan Chi'
 date = 2025-04-01T15:10:00+07:00
 summary = 'Cây Lan Chi hay còn gọi là Dây Nhện, là loài cây cảnh được ưa chuộng nhờ khả năng thanh lọc không khí và mang lại phong thủy tốt.'
-featuredImage = 'https://mocnhienfarm.com/wp-content/uploads/2022/07/cay-lan-chi.jpg'
+featuredImage = 'https://thegioicaytrong.vn/upload/images/co%20lan%20chi.jpg'
 categories = ['cay-xanh']
 tags = ['Cây nội thất', 'Thanh lọc không khí']
 +++
@@ -62,32 +62,32 @@ Cây Lan Chi được xem là biểu tượng của sự thanh cao, sức sống
 
 ## Một số hình ảnh
 
-{{< image src="https://mocnhienfarm.com/wp-content/uploads/2022/07/cay-lan-chi.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202112301114536718.jpg"
            alt="Cây Lan Chi xanh mướt"
            caption="Cây Lan Chi xanh mướt, viền trắng tinh tế"
-           src_s="https://mocnhienfarm.com/wp-content/uploads/2022/07/cay-lan-chi.jpg"
-           src_l="https://mocnhienfarm.com/wp-content/uploads/2022/07/cay-lan-chi.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202112301114536718.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202112301114536718.jpg"
            width="100%" >}}
 
-{{< image src="https://plantify.vn/wp-content/uploads/2023/04/lan-chi-cay-day-nhen.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281521178718.jpg"
            alt="Cây Lan Chi trồng trong chậu"
            caption="Cây Lan Chi đặt bàn làm việc hoặc treo ban công"
-           src_s="https://plantify.vn/wp-content/uploads/2023/04/lan-chi-cay-day-nhen.jpg"
-           src_l="https://plantify.vn/wp-content/uploads/2023/04/lan-chi-cay-day-nhen.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281521178718.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281521178718.jpg"
            width="100%" >}}
 
-{{< image src="https://trongraudothi.com/wp-content/uploads/2023/07/lan-chi-thuy-sinh.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281545540031.jpg"
            alt="Lan Chi trồng thủy sinh"
            caption="Lan Chi có thể trồng thủy sinh tạo điểm nhấn xanh"
-           src_s="https://trongraudothi.com/wp-content/uploads/2023/07/lan-chi-thuy-sinh.jpg"
-           src_l="https://trongraudothi.com/wp-content/uploads/2023/07/lan-chi-thuy-sinh.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281545540031.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281545540031.jpg"
            width="100%" >}}
 
-{{< image src="https://caycanhhanoi.vn/wp-content/uploads/2020/11/cay-lan-chi-de-ban.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281547120903.jpg"
            alt="Cây Lan Chi để bàn"
            caption="Lan Chi là loại cây để bàn đẹp và thanh lịch"
-           src_s="https://caycanhhanoi.vn/wp-content/uploads/2020/11/cay-lan-chi-de-ban.jpg"
-           src_l="https://caycanhhanoi.vn/wp-content/uploads/2020/11/cay-lan-chi-de-ban.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281547120903.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/30/1371866/cay-lan-chi-loai-cay-trong-co-cong-dung-chua-benh-cuc-hay-202206281547120903.jpg"
            width="100%" >}}
 
 ## Xem thêm
