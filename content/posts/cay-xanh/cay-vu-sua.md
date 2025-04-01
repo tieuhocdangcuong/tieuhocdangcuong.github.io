@@ -1,6 +1,6 @@
 +++
 title = 'Cây Vú Sữa'
-date = 2025-04-01T17:10:00+07:00
+date = 2025-03-26T17:10:00+07:00
 summary = 'Cây Vú Sữa (*Chrysophyllum cainito*) là cây ăn quả nhiệt đới nổi tiếng tại Việt Nam, gắn liền với câu chuyện cổ tích về tình mẫu tử.'
 featuredImage = 'https://caycanhhanoi.vn/wp-content/uploads/2020/09/cay-vu-sua.jpg'
 categories = ['cay-xanh']
