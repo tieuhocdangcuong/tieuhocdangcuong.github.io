@@ -1,6 +1,6 @@
 +++
 title = 'Cây Sanh'
-date = 2025-04-01T18:50:00+07:00
+date = 2025-03-26T18:50:00+07:00
 summary = 'Cây Sanh là loài cây cảnh phong thủy quen thuộc, được trồng nhiều tại Việt Nam với ý nghĩa mang lại tài lộc và sự trường tồn.'
 featuredImage = 'https://tse1.mm.bing.net/th?id=OIP.byMU2LVagXWC_g8yN5mHOwHaE8&pid=Api'
 categories = ['cay-xanh']
