@@ -1,6 +1,6 @@
 +++
 title = 'Cây Nhãn'
-date = 2025-04-01T17:40:00+07:00
+date = 2025-03-26T17:40:00+07:00
 summary = 'Cây Nhãn là cây ăn quả nhiệt đới phổ biến tại Việt Nam, cho quả ngọt và giá trị kinh tế cao.'
 featuredImage = 'https://cayantrai.vn/wp-content/uploads/2020/05/cay-nhan-long.jpg'
 categories = ['cay-xanh']
