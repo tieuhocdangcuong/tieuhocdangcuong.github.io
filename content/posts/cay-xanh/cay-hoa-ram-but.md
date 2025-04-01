@@ -2,7 +2,7 @@
 title = 'Cây Hoa Râm Bụt'
 date = 2025-03-26T20:10:00+07:00
 summary = 'Cây Hoa Râm Bụt là cây bụi phổ biến với sắc hoa rực rỡ, mang nhiều ý nghĩa phong thủy và văn hóa dân gian Việt Nam.'
-featuredImage = 'https://tse3.mm.bing.net/th?id=OIP.TyqFpSBnvC0p7nmo2V0ooAHaHa&pid=Api'
+featuredImage = 'https://thienduonghoa.com.vn/Uploads/958/images/516b4332995e4c00154f(1).jpg'
 categories = ['cay-xanh']
 tags = ['Cây hoa', 'Cây cảnh', 'Cây dược liệu']
 +++
@@ -63,18 +63,18 @@ Tên "râm bụt" trong dân gian gợi sự gần gũi, thân thuộc. Hoa bi�
 
 ## Một số hình ảnh
 
-{{< image src="https://tse3.mm.bing.net/th?id=OIP.TyqFpSBnvC0p7nmo2V0ooAHaHa&pid=Api"
+{{< image src="https://thienduonghoa.com.vn/Uploads/958/images/516b4332995e4c00154f(1).jpg"
            alt="Cây hoa râm bụt kép vàng"
            caption="Hoa râm bụt vàng nở rộ rực rỡ trong nắng"
-           src_s="https://tse3.mm.bing.net/th?id=OIP.TyqFpSBnvC0p7nmo2V0ooAHaHa&pid=Api"
-           src_l="https://tse3.mm.bing.net/th?id=OIP.TyqFpSBnvC0p7nmo2V0ooAHaHa&pid=Api"
+           src_s="https://thienduonghoa.com.vn/Uploads/958/images/516b4332995e4c00154f(1).jpg"
+           src_l="https://thienduonghoa.com.vn/Uploads/958/images/516b4332995e4c00154f(1).jpg"
            width="100%" >}}
 
-{{< image src="https://tse1.mm.bing.net/th?id=OIP.yelLpQVR66eKDiwiqLJmAQHaHa&pid=Api"
+{{< image src="https://media.phunutoday.vn/files/content/2023/12/24/dam-but4-1156.png"
            alt="Hoa râm bụt đỏ"
            caption="Hoa râm bụt đỏ – biểu tượng làng quê Việt Nam"
-           src_s="https://tse1.mm.bing.net/th?id=OIP.yelLpQVR66eKDiwiqLJmAQHaHa&pid=Api"
-           src_l="https://tse1.mm.bing.net/th?id=OIP.yelLpQVR66eKDiwiqLJmAQHaHa&pid=Api"
+           src_s="https://media.phunutoday.vn/files/content/2023/12/24/dam-but4-1156.png"
+           src_l="https://media.phunutoday.vn/files/content/2023/12/24/dam-but4-1156.png"
            width="100%" >}}
 
 ## Xem thêm
