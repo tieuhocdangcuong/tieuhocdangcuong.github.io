@@ -1,6 +1,6 @@
 +++
 title = 'Cây hoa hồng'
-date = 2025-03-28T10:44:39+07:00
+date = 2025-03-26T10:44:39+07:00
 summary = 'Hoa hồng (*Rosa*) là loài thực vật có hoa thuộc họ Rosaceae, nổi tiếng với vẻ đẹp và hương thơm quyến rũ, được mệnh danh là "nữ hoàng của các loài hoa".'
 featuredImage = 'https://cayvietnam.com/wp-content/uploads/2018/08/hong-nhung.jpg' 
 categories = ['cay-xanh']
