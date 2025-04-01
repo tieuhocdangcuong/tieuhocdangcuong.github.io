@@ -3,7 +3,7 @@ title = 'Cây Trạng Nguyên'
 date = 2025-04-01T15:40:00+07:00
 summary = 'Cây Trạng Nguyên (*Euphorbia pulcherrima*) nổi bật với màu đỏ rực rỡ, là biểu tượng của sự đỗ đạt và thành công.'
 featuredImage = 'https://trongcay.vn/wp-content/uploads/2018/10/cay-trang-nguyen-3.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây hoa cảnh', 'Cây phong thủy']
 +++
 
