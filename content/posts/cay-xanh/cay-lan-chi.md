@@ -3,7 +3,7 @@ title = 'Cây Lan Chi'
 date = 2025-04-01T15:10:00+07:00
 summary = 'Cây Lan Chi hay còn gọi là Dây Nhện, là loài cây cảnh được ưa chuộng nhờ khả năng thanh lọc không khí và mang lại phong thủy tốt.'
 featuredImage = 'https://mocnhienfarm.com/wp-content/uploads/2022/07/cay-lan-chi.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây nội thất', 'Thanh lọc không khí']
 +++
 
