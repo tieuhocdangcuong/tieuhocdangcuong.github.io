@@ -3,7 +3,7 @@ title = 'Cây Hoa Mười Giờ'
 date = 2025-04-01T14:45:00+07:00
 summary = 'Hoa Mười Giờ (*Portulaca grandiflora*) là loài cây thân thảo dễ trồng, hoa rực rỡ, nở vào khoảng 10h sáng mỗi ngày, rất được ưa chuộng trong trang trí cảnh quan.'
 featuredImage = 'https://hulatrees.com/wp-content/uploads/2020/06/cay-hoa-muoi-gio-thai-va-hoa-muoi-gio-my.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây hoa cảnh', 'Thân thảo']
 +++
 
