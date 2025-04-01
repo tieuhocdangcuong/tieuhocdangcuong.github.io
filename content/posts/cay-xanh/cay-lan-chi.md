@@ -1,6 +1,6 @@
 +++
 title = 'Cây Lan Chi'
-date = 2025-04-01T15:10:00+07:00
+date = 2025-03-26T15:10:00+07:00
 summary = 'Cây Lan Chi hay còn gọi là Dây Nhện, là loài cây cảnh được ưa chuộng nhờ khả năng thanh lọc không khí và mang lại phong thủy tốt.'
 featuredImage = 'https://thegioicaytrong.vn/upload/images/co%20lan%20chi.jpg'
 categories = ['cay-xanh']
