@@ -2,7 +2,7 @@
 title = 'Cây Vú Sữa'
 date = 2025-03-26T17:10:00+07:00
 summary = 'Cây Vú Sữa (*Chrysophyllum cainito*) là cây ăn quả nhiệt đới nổi tiếng tại Việt Nam, gắn liền với câu chuyện cổ tích về tình mẫu tử.'
-featuredImage = 'https://caycanhhanoi.vn/wp-content/uploads/2020/09/cay-vu-sua.jpg'
+featuredImage = 'https://hoadepviet.com/wp-content/uploads/2017/07/cay-vu-sua-3.jpg'
 categories = ['cay-xanh']
 tags = ['Cây ăn quả', 'Cây bóng mát', 'Cây dân gian']
 +++
@@ -63,33 +63,20 @@ Cây Vú Sữa tượng trưng cho tình mẫu tử, tình yêu gia đình và l
 
 ## Một số hình ảnh
 
-{{< image src="https://caycanhhanoi.vn/wp-content/uploads/2020/09/cay-vu-sua.jpg"
+{{< image src="https://niengiamnongnghiep.vn/wp-content/uploads/2019/11/cay-vu-sua.jpg"
            alt="Cây Vú Sữa trưởng thành"
            caption="Cây Vú Sữa trưởng thành có tán rộng, cho quả sai"
-           src_s="https://caycanhhanoi.vn/wp-content/uploads/2020/09/cay-vu-sua.jpg"
-           src_l="https://caycanhhanoi.vn/wp-content/uploads/2020/09/cay-vu-sua.jpg"
+           src_s="https://niengiamnongnghiep.vn/wp-content/uploads/2019/11/cay-vu-sua.jpg"
+           src_l="https://niengiamnongnghiep.vn/wp-content/uploads/2019/11/cay-vu-sua.jpg"
            width="100%" >}}
 
-{{< image src="https://caycanhhanoi.vn/wp-content/uploads/2020/09/qua-vu-sua.jpg"
+{{< image src="https://file.hstatic.net/200000377165/article/phan-biet-cac-loai-vu-sua_2b798baf29d945c99579a0e6e198924a.jpg"
            alt="Quả vú sữa"
            caption="Quả vú sữa có lớp nhựa trắng sánh như sữa"
-           src_s="https://caycanhhanoi.vn/wp-content/uploads/2020/09/qua-vu-sua.jpg"
-           src_l="https://caycanhhanoi.vn/wp-content/uploads/2020/09/qua-vu-sua.jpg"
+           src_s="https://file.hstatic.net/200000377165/article/phan-biet-cac-loai-vu-sua_2b798baf29d945c99579a0e6e198924a.jpg"
+           src_l="https://file.hstatic.net/200000377165/article/phan-biet-cac-loai-vu-sua_2b798baf29d945c99579a0e6e198924a.jpg"
            width="100%" >}}
 
-{{< image src="https://trongraudothi.com/wp-content/uploads/2023/03/cay-vu-sua-lon.jpg"
-           alt="Cây Vú Sữa bóng mát"
-           caption="Cây Vú Sữa còn được trồng làm cây bóng mát"
-           src_s="https://trongraudothi.com/wp-content/uploads/2023/03/cay-vu-sua-lon.jpg"
-           src_l="https://trongraudothi.com/wp-content/uploads/2023/03/cay-vu-sua-lon.jpg"
-           width="100%" >}}
-
-{{< image src="https://ttptnnn.quangtri.gov.vn/Portals/0/2022/vu%20sua.jpg"
-           alt="Giống Vú Sữa Lò Rèn"
-           caption="Vú Sữa Lò Rèn – đặc sản nổi tiếng của Tiền Giang"
-           src_s="https://ttptnnn.quangtri.gov.vn/Portals/0/2022/vu%20sua.jpg"
-           src_l="https://ttptnnn.quangtri.gov.vn/Portals/0/2022/vu%20sua.jpg"
-           width="100%" >}}
 
 ## Xem thêm
 
