@@ -2,7 +2,7 @@
 title = 'Cây Hoa Giấy Cẩm Thạch'
 date = 2025-03-26T21:10:00+07:00
 summary = 'Cây Hoa Giấy Cẩm Thạch là cây leo cảnh độc đáo với lá viền trắng và hoa rực rỡ, mang ý nghĩa phong thủy về may mắn và bảo vệ.'
-featuredImage = 'https://tse2.mm.bing.net/th?id=OIP.jqaPjhTH9T1IEyQaF1PQKwHaId&pid=Api'
+featuredImage = 'https://s1.media.ngoisao.vn/resize_580/news/2023/09/06/hoagiay-ngoisaovn-6-ngoisaovn-w1284-h639.jpg'
 categories = ['cay-xanh']
 tags = ['Cây cảnh', 'Cây phong thủy', 'Cây hoa leo']
 +++
@@ -63,18 +63,18 @@ Cây mang lại vẻ đẹp hiền hòa, đồng thời có ý nghĩa xua đuổ
 
 ## Một số hình ảnh
 
-{{< image src="https://tse2.mm.bing.net/th?id=OIP.jqaPjhTH9T1IEyQaF1PQKwHaId&pid=Api"
+{{< image src="https://nghientrongcay.com/wp-content/uploads/2023/12/z5007592619475_53475368e537f3df26af21bc44c0221c.jpg"
            alt="Cây Hoa Giấy Cẩm Thạch"
            caption="Hoa Giấy Cẩm Thạch với lá pha màu và hoa rực rỡ"
-           src_s="https://tse2.mm.bing.net/th?id=OIP.jqaPjhTH9T1IEyQaF1PQKwHaId&pid=Api"
-           src_l="https://tse2.mm.bing.net/th?id=OIP.jqaPjhTH9T1IEyQaF1PQKwHaId&pid=Api"
+           src_s="https://nghientrongcay.com/wp-content/uploads/2023/12/z5007592619475_53475368e537f3df26af21bc44c0221c.jpg"
+           src_l="https://nghientrongcay.com/wp-content/uploads/2023/12/z5007592619475_53475368e537f3df26af21bc44c0221c.jpg"
            width="100%" >}}
 
-{{< image src="https://tse4.mm.bing.net/th?id=OIP.X3RwdzdSFFIfoDL_HYKnlgHaIR&pid=Api"
+{{< image src="https://nghientrongcay.com/wp-content/uploads/2023/12/z5007592646098_7816a8bf55e5fe6c85a3c0064f7f21b2.jpg"
            alt="Lá Cẩm Thạch"
            caption="Lá cẩm thạch nổi bật với viền trắng sáng"
-           src_s="https://tse4.mm.bing.net/th?id=OIP.X3RwdzdSFFIfoDL_HYKnlgHaIR&pid=Api"
-           src_l="https://tse4.mm.bing.net/th?id=OIP.X3RwdzdSFFIfoDL_HYKnlgHaIR&pid=Api"
+           src_s="https://nghientrongcay.com/wp-content/uploads/2023/12/z5007592646098_7816a8bf55e5fe6c85a3c0064f7f21b2.jpg"
+           src_l="https://nghientrongcay.com/wp-content/uploads/2023/12/z5007592646098_7816a8bf55e5fe6c85a3c0064f7f21b2.jpg"
            width="100%" >}}
 
 ## Xem thêm
