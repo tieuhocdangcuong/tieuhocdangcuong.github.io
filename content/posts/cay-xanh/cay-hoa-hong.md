@@ -5,6 +5,7 @@ summary = 'Hoa hồng (*Rosa*) là loài thực vật có hoa thuộc họ Rosac
 featuredImage = 'https://cayvietnam.com/wp-content/uploads/2018/08/hong-nhung.jpg' 
 categories = ['cay-xanh']
 tags = ['hoa']
+lightgallery = true
 +++
 
 ## Mô tả chung
@@ -83,30 +84,22 @@ Việc chăm sóc đúng cách sẽ giúp cây hoa hồng phát triển khỏe m
 {{< image src="https://hoavily.com/uploads/file/gian-hoa-hong-do.jpg"
            alt="Hoa hồng đỏ"
            caption="Hoa hồng đỏ rực rỡ"
-           src_s="https://hoavily.com/uploads/file/gian-hoa-hong-do.jpg"
-           src_l="https://hoavily.com/uploads/file/gian-hoa-hong-do.jpg"
-           width="1080" height="480" >}}
+           width="100%" >}}
 
 {{< image src="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
            alt="Hoa hồng trắng"
            caption="Hoa hồng trắng tinh khôi"
-           src_s="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
-           src_l="https://muabantphcm.weebly.com/uploads/6/0/1/4/60140963/tuong-rao-trong-hoa-hong-dep-002_orig.jpg"
-           width="1080" height="480" >}}
+           width="100%" >}}
 
 {{< image src="https://media.vietravel.com/images/Content/mua-hoa-hong-o-phap-3.png"
            alt="Vườn hoa hồng"
            caption="Vườn hồng L'Haÿ les Roses, ngoại ô Paris"
-           src_s="https://media.vietravel.com/images/Content/mua-hoa-hong-o-phap-3.png"
-           src_l="https://media.vietravel.com/images/Content/mua-hoa-hong-o-phap-3.png"
-           width="1080" height="480" >}}
+           width="100%" >}}
 
 {{< image src="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
            alt="Bụi hoa hồng"
            caption="Bụi hoa hồng đang nở"
-           src_s="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
-           src_l="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/2/14/photo-17-1676344947412906234032.jpg"
-           width="1080" height="480" >}}
+           width="100%" >}}
 
 
 ## Xem thêm
