@@ -2,7 +2,7 @@
 title = 'Cây Lưỡi Hổ'
 date = 2025-03-26T20:50:00+07:00
 summary = 'Cây Lưỡi Hổ là cây nội thất phong thủy nổi bật, có khả năng lọc không khí, dễ trồng và mang lại may mắn, bình an.'
-featuredImage = 'https://tse1.mm.bing.net/th?id=OIP.XTsnPK9-yTgSJoPwQezAkAHaHa&pid=Api'
+featuredImage = 'https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202112271841596378.jpg'
 categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây nội thất', 'Cây lọc không khí']
 +++
@@ -62,18 +62,18 @@ Trong phong thủy, cây giúp hóa giải sát khí, mang lại vượng khí v
 
 ## Một số hình ảnh
 
-{{< image src="https://tse1.mm.bing.net/th?id=OIP.XTsnPK9-yTgSJoPwQezAkAHaHa&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202101071138453219.png"
            alt="Cây Lưỡi Hổ trong chậu"
            caption="Cây Lưỡi Hổ trang trí nội thất, thanh lọc không khí"
-           src_s="https://tse1.mm.bing.net/th?id=OIP.XTsnPK9-yTgSJoPwQezAkAHaHa&pid=Api"
-           src_l="https://tse1.mm.bing.net/th?id=OIP.XTsnPK9-yTgSJoPwQezAkAHaHa&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202101071138453219.png"
+           src_l="https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202101071138453219.png"
            width="100%" >}}
 
-{{< image src="https://tse4.mm.bing.net/th?id=OIP.iNgqCek5AxWE1CJYrM8JQgHaFj&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202201181329441765.jpg"
            alt="Lá cây Lưỡi Hổ"
            caption="Lá cây Lưỡi Hổ có viền vàng sắc nét, khỏe khoắn"
-           src_s="https://tse4.mm.bing.net/th?id=OIP.iNgqCek5AxWE1CJYrM8JQgHaFj&pid=Api"
-           src_l="https://tse4.mm.bing.net/th?id=OIP.iNgqCek5AxWE1CJYrM8JQgHaFj&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202201181329441765.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/01/07/1318539/cay-luoi-ho-la-gi-y-nghia-tac-dung-va-nhung-luu-y-khi-trong-cay-luoi-ho-202201181329441765.jpg"
            width="100%" >}}
 
 ## Xem thêm
