@@ -2,7 +2,7 @@
 title = 'Cây Sơn Liễu'
 date = 2025-04-01T12:04:30+07:00
 summary = 'Cây Sơn Liễu (*Phyllanthus cochinchinensis*) là loài cây cảnh phổ biến, được ưa chuộng nhờ vẻ đẹp thanh thoát và ý nghĩa phong thủy tích cực.'
-featuredImage = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Phyllanthus_cochinchinensis.jpg'
+featuredImage = 'https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081522078472.jpg'
 categories = ['cay-xanh']
 tags = ['cây cảnh', 'phong thủy']
 +++
@@ -59,32 +59,25 @@ Cây Sơn Liễu được coi là biểu tượng của sự mềm mại, uyển
 
 ## Một số hình ảnh
 
-{{< image src="https://tuyensinh.ftu.edu.vn/wp-content/uploads/2023/10/cay-son-lieu-1.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202205091415160992.jpg"
            alt="Cây Sơn Liễu tán rũ"
            caption="Cây Sơn Liễu dáng thác đổ thường trồng trong cảnh quan"
-           src_s="https://tuyensinh.ftu.edu.vn/wp-content/uploads/2023/10/cay-son-lieu-1.jpg"
-           src_l="https://tuyensinh.ftu.edu.vn/wp-content/uploads/2023/10/cay-son-lieu-1.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202205091415160992.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202205091415160992.jpg"
            width="100%" >}}
 
-{{< image src="https://nongsandungha.com/wp-content/uploads/2022/10/cay-son-lieu.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081523575783.jpg"
            alt="Sơn Liễu bonsai"
            caption="Cây Sơn Liễu bonsai đẹp mắt, thường dùng trang trí nội thất"
-           src_s="https://nongsandungha.com/wp-content/uploads/2022/10/cay-son-lieu.jpg"
-           src_l="https://nongsandungha.com/wp-content/uploads/2022/10/cay-son-lieu.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081523575783.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081523575783.jpg"
            width="100%" >}}
 
-{{< image src="https://trongraudothi.com/wp-content/uploads/2023/02/cay-son-lieu-thuy-sinh.jpg"
-           alt="Cây Sơn Liễu thủy sinh"
-           caption="Một số giống Sơn Liễu có thể trồng trong môi trường thủy sinh"
-           src_s="https://trongraudothi.com/wp-content/uploads/2023/02/cay-son-lieu-thuy-sinh.jpg"
-           src_l="https://trongraudothi.com/wp-content/uploads/2023/02/cay-son-lieu-thuy-sinh.jpg"
-           width="100%" >}}
-
-{{< image src="https://lh3.googleusercontent.com/proxy/sonlieu-google-image"
+{{< image src="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081524036682.jpg"
            alt="Cây Sơn Liễu cận cảnh"
            caption="Cận cảnh tán lá mảnh và xanh mướt của cây Sơn Liễu"
-           src_s="https://lh3.googleusercontent.com/proxy/sonlieu-google-image"
-           src_l="https://lh3.googleusercontent.com/proxy/sonlieu-google-image"
+           src_s="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081524036682.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/05/09/1431230/cay-son-lieu-dac-diem-cong-dung-va-cach-trong-don-gian-202207081524036682.jpg"
            width="100%" >}}
 
 
