@@ -1,6 +1,6 @@
 +++
 title = 'Cây Trạng Nguyên'
-date = 2025-04-01T15:40:00+07:00
+date = 2025-03-26T15:40:00+07:00
 summary = 'Cây Trạng Nguyên (*Euphorbia pulcherrima*) nổi bật với màu đỏ rực rỡ, là biểu tượng của sự đỗ đạt và thành công.'
 featuredImage = 'https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221029429694.jpg'
 categories = ['cay-xanh']
