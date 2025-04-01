@@ -2,7 +2,7 @@
 title = 'Cây Sanh'
 date = 2025-03-26T18:50:00+07:00
 summary = 'Cây Sanh là loài cây cảnh phong thủy quen thuộc, được trồng nhiều tại Việt Nam với ý nghĩa mang lại tài lộc và sự trường tồn.'
-featuredImage = 'https://tse1.mm.bing.net/th?id=OIP.byMU2LVagXWC_g8yN5mHOwHaE8&pid=Api'
+featuredImage = 'https://hoadepviet.com/wp-content/uploads/2017/05/cay-sanh-5a.jpg'
 categories = ['cay-xanh']
 tags = ['Cây cảnh', 'Cây bonsai', 'Cây phong thủy']
 +++
@@ -63,18 +63,18 @@ Cây Sanh đại diện cho sự trường tồn, sức sống mãnh liệt, s�
 
 ## Một số hình ảnh
 
-{{< image src="https://tse1.mm.bing.net/th?id=OIP.eZEThNETWs7fKfx_dduQNwHaEo&pid=Api"
+{{< image src="https://songthaivietnam.com.vn/uploads/data/3110/files/products/Cay-trang-tri/cay-sanh-1.jpg"
            alt="Cây Sanh trưởng thành"
            caption="Cây Sanh trưởng thành với tán rộng và rễ phụ phát triển"
-           src_s="https://tse1.mm.bing.net/th?id=OIP.eZEThNETWs7fKfx_dduQNwHaEo&pid=Api"
-           src_l="https://tse1.mm.bing.net/th?id=OIP.eZEThNETWs7fKfx_dduQNwHaEo&pid=Api"
+           src_s="https://songthaivietnam.com.vn/uploads/data/3110/files/products/Cay-trang-tri/cay-sanh-1.jpg"
+           src_l="https://songthaivietnam.com.vn/uploads/data/3110/files/products/Cay-trang-tri/cay-sanh-1.jpg"
            width="100%" >}}
 
-{{< image src="https://tse2.mm.bing.net/th?id=OIP.30t39q5wiYTSrhHRcjAgAwHaFT&pid=Api"
+{{< image src="https://hoadepviet.com/wp-content/uploads/2017/05/cay-sanh-1a.jpg"
            alt="Cây Sanh dáng bonsai"
            caption="Cây Sanh tạo dáng bonsai nghệ thuật phong thủy"
-           src_s="https://tse2.mm.bing.net/th?id=OIP.30t39q5wiYTSrhHRcjAgAwHaFT&pid=Api"
-           src_l="https://tse2.mm.bing.net/th?id=OIP.30t39q5wiYTSrhHRcjAgAwHaFT&pid=Api"
+           src_s="https://hoadepviet.com/wp-content/uploads/2017/05/cay-sanh-1a.jpg"
+           src_l="https://hoadepviet.com/wp-content/uploads/2017/05/cay-sanh-1a.jpg"
            width="100%" >}}
 
 ## Xem thêm
