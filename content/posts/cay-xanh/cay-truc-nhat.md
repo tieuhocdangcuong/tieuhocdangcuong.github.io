@@ -2,7 +2,7 @@
 title = 'Cây Trúc Nhật'
 date = 2025-03-26T19:50:00+07:00
 summary = 'Cây Trúc Nhật là loài cây cảnh nội thất thanh lịch, dễ chăm sóc, mang ý nghĩa may mắn, trường thọ và thường được trưng trong không gian sống hiện đại.'
-featuredImage = 'https://tse2.mm.bing.net/th?id=OIP.s-gnLV5Fpkm_FM6JQdTIiwHaLH&pid=Api'
+featuredImage = 'https://cdn.tgdd.vn/Files/2021/07/31/1372110/cach-trong-va-cham-soc-cay-truc-nhat-dung-ky-thuat-202108011142229237.jpg'
 categories = ['cay-xanh']
 tags = ['Cây cảnh nội thất', 'Cây phong thủy', 'Cây văn phòng']
 +++
@@ -63,18 +63,18 @@ Cây mang ý nghĩa tài lộc, may mắn, giúp cân bằng năng lượng tron
 
 ## Một số hình ảnh
 
-{{< image src="https://tse2.mm.bing.net/th?id=OIP.s-gnLV5Fpkm_FM6JQdTIiwHaLH&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/31/1372110/cay-truc-nhat-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202301121550409178.jpeg"
            alt="Cây Trúc Nhật trong chậu"
            caption="Cây Trúc Nhật trang trí nội thất với dáng lá thanh mảnh"
-           src_s="https://tse2.mm.bing.net/th?id=OIP.s-gnLV5Fpkm_FM6JQdTIiwHaLH&pid=Api"
-           src_l="https://tse2.mm.bing.net/th?id=OIP.s-gnLV5Fpkm_FM6JQdTIiwHaLH&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/31/1372110/cay-truc-nhat-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202301121550409178.jpeg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/31/1372110/cay-truc-nhat-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202301121550409178.jpeg"
            width="100%" >}}
 
-{{< image src="https://tse1.mm.bing.net/th?id=OIP.ZVnBC2_vCbfCZYig7C_6DgHaJ4&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/31/1372110/cach-trong-va-cham-soc-cay-truc-nhat-dung-ky-thuat-202108011142567977.jpg"
            alt="Lá cây Trúc Nhật"
            caption="Lá Trúc Nhật có đốm trắng tự nhiên, mềm mại và bóng mượt"
-           src_s="https://tse1.mm.bing.net/th?id=OIP.ZVnBC2_vCbfCZYig7C_6DgHaJ4&pid=Api"
-           src_l="https://tse1.mm.bing.net/th?id=OIP.ZVnBC2_vCbfCZYig7C_6DgHaJ4&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/31/1372110/cach-trong-va-cham-soc-cay-truc-nhat-dung-ky-thuat-202108011142567977.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/31/1372110/cach-trong-va-cham-soc-cay-truc-nhat-dung-ky-thuat-202108011142567977.jpg"
            width="100%" >}}
 
 ## Xem thêm
