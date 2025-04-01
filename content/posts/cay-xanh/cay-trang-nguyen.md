@@ -2,7 +2,7 @@
 title = 'Cây Trạng Nguyên'
 date = 2025-04-01T15:40:00+07:00
 summary = 'Cây Trạng Nguyên (*Euphorbia pulcherrima*) nổi bật với màu đỏ rực rỡ, là biểu tượng của sự đỗ đạt và thành công.'
-featuredImage = 'https://trongcay.vn/wp-content/uploads/2018/10/cay-trang-nguyen-3.jpg'
+featuredImage = 'https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221029429694.jpg'
 categories = ['cay-xanh']
 tags = ['Cây hoa cảnh', 'Cây phong thủy']
 +++
@@ -62,32 +62,32 @@ Cây tượng trưng cho trí tuệ, sự vươn lên và thành công. Màu đ�
 
 ## Một số hình ảnh
 
-{{< image src="https://trongcay.vn/wp-content/uploads/2018/10/cay-trang-nguyen-3.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221029429694.jpg"
            alt="Cây Trạng Nguyên lá đỏ"
            caption="Lá đỏ đặc trưng tạo nên vẻ đẹp của Trạng Nguyên"
-           src_s="https://trongcay.vn/wp-content/uploads/2018/10/cay-trang-nguyen-3.jpg"
-           src_l="https://trongcay.vn/wp-content/uploads/2018/10/cay-trang-nguyen-3.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221029429694.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221029429694.jpg"
            width="100%" >}}
 
-{{< image src="https://cayxanhhoanggia.vn/uploads/news/2022_10/trang-nguyen-1.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032057914.jpg"
            alt="Cây Trạng Nguyên trong chậu"
            caption="Cây Trạng Nguyên được trồng chậu trang trí Tết"
-           src_s="https://cayxanhhoanggia.vn/uploads/news/2022_10/trang-nguyen-1.jpg"
-           src_l="https://cayxanhhoanggia.vn/uploads/news/2022_10/trang-nguyen-1.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032057914.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032057914.jpg"
            width="100%" >}}
 
-{{< image src="https://hoadepviet.com/upload/sanpham/cay-trang-nguyen-hoa-giay-do.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032265799.jpg"
            alt="Lá bắc đỏ cây Trạng Nguyên"
            caption="Lá bắc đỏ thường bị nhầm với cánh hoa"
-           src_s="https://hoadepviet.com/upload/sanpham/cay-trang-nguyen-hoa-giay-do.jpg"
-           src_l="https://hoadepviet.com/upload/sanpham/cay-trang-nguyen-hoa-giay-do.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032265799.jpg"
+           src_l="hhttps://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032265799.jpg"
            width="100%" >}}
 
-{{< image src="https://agriviet.org/wp-content/uploads/2021/09/Trang-nguyen.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221036329846.jpg"
            alt="Cây Trạng Nguyên nở hoa"
            caption="Trạng Nguyên nở hoa vào mùa đông, đẹp nhất dịp Tết"
-           src_s="https://agriviet.org/wp-content/uploads/2021/09/Trang-nguyen.jpg"
-           src_l="https://agriviet.org/wp-content/uploads/2021/09/Trang-nguyen.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221036329846.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221036329846.jpg"
            width="100%" >}}
 
 ## Xem thêm
