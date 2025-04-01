@@ -2,7 +2,7 @@
 title = 'Cây Nguyệt Quế'
 date = 2025-03-26T19:10:00+07:00
 summary = 'Cây Nguyệt Quế là loài cây cảnh có hương thơm nhẹ nhàng, biểu tượng cho chiến thắng, may mắn và trường tồn trong phong thủy.'
-featuredImage = 'https://tse1.mm.bing.net/th?id=OIP.eZEThNETWs7fKfx_dduQNwHaEo&pid=Api'
+featuredImage = 'https://cdn.tgdd.vn/Files/2021/07/12/1367466/y-nghia-va-cach-trong-cay-nguyet-que-trong-phong-thuy-202107120939250972.jpg'
 categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây cảnh', 'Cây thơm']
 +++
@@ -63,18 +63,18 @@ Cây Nguyệt Quế là biểu tượng của chiến thắng, trí tuệ, danh 
 
 ## Một số hình ảnh
 
-{{< image src="https://tse1.mm.bing.net/th?id=OIP.byMU2LVagXWC_g8yN5mHOwHaE8&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/12/1367466/cay-nguyet-que-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206301446170931.jpg"
            alt="Cây nguyệt quế trong sân vườn"
            caption="Cây nguyệt quế được trồng cảnh, có dáng đẹp và hương thơm dịu"
-           src_s="https://tse1.mm.bing.net/th?id=OIP.byMU2LVagXWC_g8yN5mHOwHaE8&pid=Api"
-           src_l="https://tse1.mm.bing.net/th?id=OIP.byMU2LVagXWC_g8yN5mHOwHaE8&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/12/1367466/cay-nguyet-que-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206301446170931.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/12/1367466/cay-nguyet-que-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206301446170931.jpg"
            width="100%" >}}
 
-{{< image src="https://tse2.mm.bing.net/th?id=OIP.X0hpa4B0iMVCOe9JlnoxsgHaIy&pid=Api"
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/12/1367466/cay-nguyet-que-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206301446570748.jpg"
            alt="Lá và hoa nguyệt quế"
            caption="Lá và hoa nguyệt quế – có mùi thơm đặc trưng"
-           src_s="https://tse2.mm.bing.net/th?id=OIP.X0hpa4B0iMVCOe9JlnoxsgHaIy&pid=Api"
-           src_l="https://tse2.mm.bing.net/th?id=OIP.X0hpa4B0iMVCOe9JlnoxsgHaIy&pid=Api"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/12/1367466/cay-nguyet-que-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206301446570748.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/12/1367466/cay-nguyet-que-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206301446570748.jpg"
            width="100%" >}}
 
 ## Xem thêm
