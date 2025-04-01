@@ -2,7 +2,7 @@
 title = 'Cây Lộc Vừng'
 date = 2025-03-26T20:30:00+07:00
 summary = 'Cây Lộc Vừng là loài cây cảnh phong thủy nổi bật với hoa đỏ rủ mềm mại, mang ý nghĩa tài lộc, may mắn và hỷ sự cho gia chủ.'
-featuredImage = 'https://tse1.mm.bing.net/th?id=OIP.qS6Fw_-PkPAmyhAoO8iHbwHaJI&pid=Api'
+featuredImage = 'https://caytot.vn/wp-content/uploads/2024/09/cay-loc-vung-bonsai.gif'
 categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây cảnh', 'Cây hoa đỏ']
 +++
@@ -63,18 +63,18 @@ Cây là biểu tượng của tài lộc và hỷ sự, hoa đỏ tượng trư
 
 ## Một số hình ảnh
 
-{{< image src="https://tse3.mm.bing.net/th?id=OIP.QazD7qpvO73E2HaYwMTp0wHaEo&pid=Api"
+{{< image src="https://canhquanminhhan.com/upload/elfinder/loc-vung.jpg"
            alt="Cây Lộc Vừng nở hoa rủ"
            caption="Cây Lộc Vừng trước nhà với hoa đỏ rực rỡ mềm mại"
-           src_s="https://tse3.mm.bing.net/th?id=OIP.QazD7qpvO73E2HaYwMTp0wHaEo&pid=Api"
-           src_l="https://tse3.mm.bing.net/th?id=OIP.QazD7qpvO73E2HaYwMTp0wHaEo&pid=Api"
+           src_s="https://canhquanminhhan.com/upload/elfinder/loc-vung.jpg"
+           src_l="https://canhquanminhhan.com/upload/elfinder/loc-vung.jpg"
            width="100%" >}}
 
-{{< image src="https://tse3.mm.bing.net/th?id=OIP.Ec5eEjwbavSypokEKVU1KQHaFj&pid=Api"
+{{< image src="https://caytot.vn/wp-content/uploads/2024/09/loc-vung-hoa-do-1-800x800.jpg"
            alt="Cận cảnh hoa Lộc Vừng"
            caption="Hoa Lộc Vừng đỏ mềm mại, biểu tượng tài lộc"
-           src_s="https://tse3.mm.bing.net/th?id=OIP.Ec5eEjwbavSypokEKVU1KQHaFj&pid=Api"
-           src_l="https://tse3.mm.bing.net/th?id=OIP.Ec5eEjwbavSypokEKVU1KQHaFj&pid=Api"
+           src_s="https://caytot.vn/wp-content/uploads/2024/09/loc-vung-hoa-do-1-800x800.jpg"
+           src_l="https://caytot.vn/wp-content/uploads/2024/09/loc-vung-hoa-do-1-800x800.jpg"
            width="100%" >}}
 
 ## Xem thêm
