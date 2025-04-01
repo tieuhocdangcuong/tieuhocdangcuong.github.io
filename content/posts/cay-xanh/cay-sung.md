@@ -2,7 +2,7 @@
 title = 'Cây Sung'
 date = 2025-03-26T18:30:00+07:00
 summary = 'Cây Sung là loài cây thân gỗ gắn liền với văn hóa dân gian Việt Nam, mang ý nghĩa sung túc, viên mãn và thường được trồng làm cảnh hoặc lấy quả.'
-featuredImage = 'https://khuvuonxanh.com/wp-content/uploads/2021/04/cay-sung.jpg'
+featuredImage = 'https://cdnmedia.tinmoi.vn/upload/daohoa/2023/04/19/cay-cham-soc-cay-sung-ra-qua-1681873022-1001524.jpg'
 categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây truyền thống', 'Cây cảnh']
 +++
@@ -62,18 +62,18 @@ Cây Sung là biểu tượng của tài lộc, may mắn và sức sống bền
 
 ## Một số hình ảnh
 
-{{< image src="https://khuvuonxanh.com/wp-content/uploads/2021/04/cay-sung.jpg"
+{{< image src="https://cdn.eva.vn/upload/4-2020/images/2020-11-20/image2-1605854763-567-width600height400.jpg"
            alt="Cây Sung trưởng thành"
            caption="Cây Sung trưởng thành với tán lá rộng và quả mọc thành chùm trên thân"
-           src_s="https://khuvuonxanh.com/wp-content/uploads/2021/04/cay-sung.jpg"
-           src_l="https://khuvuonxanh.com/wp-content/uploads/2021/04/cay-sung.jpg"
+           src_s="https://cdn.eva.vn/upload/4-2020/images/2020-11-20/image2-1605854763-567-width600height400.jpg"
+           src_l="https://cdn.eva.vn/upload/4-2020/images/2020-11-20/image2-1605854763-567-width600height400.jpg"
            width="100%" >}}
 
-{{< image src="https://chohoaonline.com/uploads/cay-sung-1.jpg"
+{{< image src="https://api.nongthonviet.com.vn/media/618a3153369b3b7a639a8606_qua-cay-sung_high.jpg"
            alt="Quả Sung chín"
            caption="Quả Sung chín có màu đỏ cam, mọc dày đặc quanh thân"
-           src_s="https://chohoaonline.com/uploads/cay-sung-1.jpg"
-           src_l="https://chohoaonline.com/uploads/cay-sung-1.jpg"
+           src_s="https://api.nongthonviet.com.vn/media/618a3153369b3b7a639a8606_qua-cay-sung_high.jpg"
+           src_l="https://api.nongthonviet.com.vn/media/618a3153369b3b7a639a8606_qua-cay-sung_high.jpg"
            width="100%" >}}
 
 ## Xem thêm
