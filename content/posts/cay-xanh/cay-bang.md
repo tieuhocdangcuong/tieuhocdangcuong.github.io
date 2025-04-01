@@ -3,7 +3,7 @@ title = 'Cây Bàng'
 date = 2025-04-01T14:15:00+07:00
 summary = 'Cây Bàng (*Terminalia catappa*) là cây bóng mát quen thuộc trong sân trường, công viên, nổi bật với tán lá rộng và khả năng thích nghi cao.'
 featuredImage = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Terminalia_catappa_tree.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây bóng mát', 'Cây thân gỗ']
 +++
 
