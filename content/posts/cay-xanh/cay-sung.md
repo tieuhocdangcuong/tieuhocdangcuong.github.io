@@ -3,7 +3,7 @@ title = 'Cây Sung'
 date = 2025-04-01T18:30:00+07:00
 summary = 'Cây Sung là loài cây thân gỗ gắn liền với văn hóa dân gian Việt Nam, mang ý nghĩa sung túc, viên mãn và thường được trồng làm cảnh hoặc lấy quả.'
 featuredImage = 'https://khuvuonxanh.com/wp-content/uploads/2021/04/cay-sung.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây truyền thống', 'Cây cảnh']
 +++
 
