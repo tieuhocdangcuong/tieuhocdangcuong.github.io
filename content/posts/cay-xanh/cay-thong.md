@@ -69,28 +69,28 @@ Thông là biểu tượng của mùa đông và lễ Giáng Sinh ở phương T
 
 ## Một số hình ảnh
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/1/17/Pinus_densiflora3.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2020/12/24/1315825/tinh-dau-thong-do-han-quoc-co-tac-dung-gi-mua-o-dau-202012241431234163.jpg"
            alt="Cây thông đỏ"
            caption="Cây thông đỏ tại Hàn Quốc"
            src_s="https://cdn.tgdd.vn/Files/2020/12/24/1315825/tinh-dau-thong-do-han-quoc-co-tac-dung-gi-mua-o-dau-202012241431234163.jpg"
            src_l="https://cdn.tgdd.vn/Files/2020/12/24/1315825/tinh-dau-thong-do-han-quoc-co-tac-dung-gi-mua-o-dau-202012241431234163.jpg"
            width="100%" >}}
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Pinus_nigra.jpg"
+{{< image src="https://cdn.baohatinh.vn/images/e0d995750f8b712a7077695e091bdd34ef48698ef182f5a3b9a3139ed7fedb4c3c60fbeff32c633117c7ed0783fec432/77d6061353t9811l2.jpg"
            alt="Cây thông đen"
            caption="Thông đen ở châu Âu"
            src_s="https://cdn.baohatinh.vn/images/e0d995750f8b712a7077695e091bdd34ef48698ef182f5a3b9a3139ed7fedb4c3c60fbeff32c633117c7ed0783fec432/77d6061353t9811l2.jpg"
            src_l="https://cdn.baohatinh.vn/images/e0d995750f8b712a7077695e091bdd34ef48698ef182f5a3b9a3139ed7fedb4c3c60fbeff32c633117c7ed0783fec432/77d6061353t9811l2.jpg"
            width="100%" >}}
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Dalat_Pine_Forest.jpg"
+{{< image src="https://images.spiderum.com/sp-images/ce122ff0bada11ef963d7ddd8a6c8c2a.jpeg"
            alt="Rừng thông Đà Lạt"
            caption="Rừng thông nổi tiếng tại Đà Lạt"
            src_s="https://images.spiderum.com/sp-images/ce122ff0bada11ef963d7ddd8a6c8c2a.jpeg"
            src_l="https://images.spiderum.com/sp-images/ce122ff0bada11ef963d7ddd8a6c8c2a.jpeg"
            width="100%" >}}
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pinus_roxburghii.jpg"
+{{< image src="https://www.conifers.org/pi/pi/w/wallichiana05.jpg"
            alt="Cây thông Himalaya"
            caption="Thông Himalaya (Pinus roxburghii)"
            src_s="https://www.conifers.org/pi/pi/w/wallichiana05.jpg"
