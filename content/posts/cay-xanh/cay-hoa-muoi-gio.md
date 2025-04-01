@@ -1,8 +1,8 @@
 +++
 title = 'Cây Hoa Mười Giờ'
-date = 2025-04-01T14:45:00+07:00
+date = 2025-03-26T14:45:00+07:00
 summary = 'Hoa Mười Giờ (*Portulaca grandiflora*) là loài cây thân thảo dễ trồng, hoa rực rỡ, nở vào khoảng 10h sáng mỗi ngày, rất được ưa chuộng trong trang trí cảnh quan.'
-featuredImage = 'https://hulatrees.com/wp-content/uploads/2020/06/cay-hoa-muoi-gio-thai-va-hoa-muoi-gio-my.jpg'
+featuredImage = 'https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/7/19/31-172136827160242245155.jpg'
 categories = ['cay-xanh']
 tags = ['Cây hoa cảnh', 'Thân thảo']
 +++
@@ -54,32 +54,32 @@ Hoa Mười Giờ biểu trưng cho tình yêu giản dị, sự chờ đợi v�
 
 ## Một số hình ảnh
 
-{{< image src="https://hulatrees.com/wp-content/uploads/2020/06/cay-hoa-muoi-gio-thai-va-hoa-muoi-gio-my.jpg"
+{{< image src="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/7/19/26-17213684136931424900544.jpg"
            alt="Hoa Mười Giờ nhiều màu sắc"
            caption="Hoa Mười Giờ nhiều màu sắc"
-           src_s="https://hulatrees.com/wp-content/uploads/2020/06/cay-hoa-muoi-gio-thai-va-hoa-muoi-gio-my.jpg"
-           src_l="https://hulatrees.com/wp-content/uploads/2020/06/cay-hoa-muoi-gio-thai-va-hoa-muoi-gio-my.jpg"
+           src_s="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/7/19/26-17213684136931424900544.jpg"
+           src_l="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/7/19/26-17213684136931424900544.jpg"
            width="100%" >}}
 
-{{< image src="https://www.tinmoi.vn/upload/2016/05/26/1464248375-hoa-muoi-gio-1.jpg"
+{{< image src="https://thptchuyensonla.edu.vn/wp-content/uploads/2024/10/chuan-bi-trong-hoa-muoi-gio-678x381.jpg"
            alt="Hoa Mười Giờ nở rộ"
            caption="Hoa Mười Giờ nở rộ"
-           src_s="https://www.tinmoi.vn/upload/2016/05/26/1464248375-hoa-muoi-gio-1.jpg"
-           src_l="https://www.tinmoi.vn/upload/2016/05/26/1464248375-hoa-muoi-gio-1.jpg"
+           src_s="https://thptchuyensonla.edu.vn/wp-content/uploads/2024/10/chuan-bi-trong-hoa-muoi-gio-678x381.jpg"
+           src_l="https://thptchuyensonla.edu.vn/wp-content/uploads/2024/10/chuan-bi-trong-hoa-muoi-gio-678x381.jpg"
            width="100%" >}}
 
-{{< image src="https://giadinhnongdan.com/wp-content/uploads/2021/09/cay-hoa-muoi-gio-1.jpg"
+{{< image src="https://thienduonghoa.com.vn/Uploads/958/images/image(25).png"
            alt="Cận cảnh hoa Mười Giờ"
            caption="Cận cảnh hoa Mười Giờ"
-           src_s="https://giadinhnongdan.com/wp-content/uploads/2021/09/cay-hoa-muoi-gio-1.jpg"
-           src_l="https://giadinhnongdan.com/wp-content/uploads/2021/09/cay-hoa-muoi-gio-1.jpg"
+           src_s="https://thienduonghoa.com.vn/Uploads/958/images/image(25).png"
+           src_l="https://thienduonghoa.com.vn/Uploads/958/images/image(25).png"
            width="100%" >}}
 
-{{< image src="https://chaucayxuatkhau.com/wp-content/uploads/2021/06/hoa-muoi-gio.jpg"
+{{< image src="https://vandienfmp.vn/wp-content/uploads/2020/04/A%CC%89nh-hoa-m%C6%B0%C6%A1%CC%80i-gio-4.jpg"
            alt="Hoa Mười Giờ trong chậu"
            caption="Hoa Mười Giờ trong chậu"
-           src_s="https://chaucayxuatkhau.com/wp-content/uploads/2021/06/hoa-muoi-gio.jpg"
-           src_l="https://chaucayxuatkhau.com/wp-content/uploads/2021/06/hoa-muoi-gio.jpg"
+           src_s="https://vandienfmp.vn/wp-content/uploads/2020/04/A%CC%89nh-hoa-m%C6%B0%C6%A1%CC%80i-gio-4.jpg"
+           src_l="https://vandienfmp.vn/wp-content/uploads/2020/04/A%CC%89nh-hoa-m%C6%B0%C6%A1%CC%80i-gio-4.jpg"
            width="100%" >}}
 
 ## Xem thêm
