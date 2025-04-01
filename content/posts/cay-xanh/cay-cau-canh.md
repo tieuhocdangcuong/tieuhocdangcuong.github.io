@@ -1,6 +1,6 @@
 +++
 title = 'Cây Cau Cảnh'
-date = 2025-04-01T16:40:00+07:00
+date = 2025-03-26T16:40:00+07:00
 summary = 'Cây Cau Cảnh là loại cây trang trí phổ biến trong nhà và văn phòng nhờ hình dáng thanh mảnh, màu xanh mát và khả năng thanh lọc không khí.'
 featuredImage = 'https://cdn.tgdd.vn/Files/2022/04/20/1427448/cay-cau-nhat-dac-diem-y-nghia-trong-phong-thuy-202204201356131682.jpg'
 categories = ['cay-xanh']
