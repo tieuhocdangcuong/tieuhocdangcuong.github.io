@@ -3,7 +3,7 @@ title = 'Cây Cau Cảnh'
 date = 2025-04-01T16:40:00+07:00
 summary = 'Cây Cau Cảnh là loại cây trang trí phổ biến trong nhà và văn phòng nhờ hình dáng thanh mảnh, màu xanh mát và khả năng thanh lọc không khí.'
 featuredImage = 'https://caycanhviet.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây nội thất', 'Thanh lọc không khí']
 +++
 
