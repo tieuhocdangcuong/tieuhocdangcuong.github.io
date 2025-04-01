@@ -2,7 +2,7 @@
 title = 'Cây Cau Cảnh'
 date = 2025-04-01T16:40:00+07:00
 summary = 'Cây Cau Cảnh là loại cây trang trí phổ biến trong nhà và văn phòng nhờ hình dáng thanh mảnh, màu xanh mát và khả năng thanh lọc không khí.'
-featuredImage = 'https://caycanhviet.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg'
+featuredImage = 'https://cdn.tgdd.vn/Files/2022/04/20/1427448/cay-cau-nhat-dac-diem-y-nghia-trong-phong-thuy-202204201356131682.jpg'
 categories = ['cay-xanh']
 tags = ['Cây phong thủy', 'Cây nội thất', 'Thanh lọc không khí']
 +++
@@ -62,32 +62,32 @@ Cây tượng trưng cho sự phát triển thăng tiến, sự bình yên và t
 
 ## Một số hình ảnh
 
-{{< image src="https://caycanhviet.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg"
+{{< image src="https://cdn.tgdd.vn/Files/2022/04/20/1427448/cay-cau-nhat-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206291448441130.jpg"
            alt="Cây Cau Cảnh trong chậu"
            caption="Cây Cau Cảnh đặt trong phòng khách hoặc văn phòng"
-           src_s="https://caycanhviet.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg"
-           src_l="https://caycanhviet.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg"
+           src_s="https://cdn.tgdd.vn/Files/2022/04/20/1427448/cay-cau-nhat-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206291448441130.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/04/20/1427448/cay-cau-nhat-y-nghia-hinh-anh-cach-trong-cham-soc-tai-nha-202206291448441130.jpg"
            width="100%" >}}
 
-{{< image src="https://caycanhhanoi.com/wp-content/uploads/2019/08/cay-cau-nhat.jpg"
+{{< image src="https://product.hstatic.net/200000545087/product/cau_nhat_c556196d1a0843e78147a43d72b29413_1024x1024.jpg"
            alt="Cây Cau Nhật"
            caption="Cau Nhật – một loại cau cảnh nhỏ gọn phổ biến"
-           src_s="https://caycanhhanoi.com/wp-content/uploads/2019/08/cay-cau-nhat.jpg"
-           src_l="https://caycanhhanoi.com/wp-content/uploads/2019/08/cay-cau-nhat.jpg"
+           src_s="https://product.hstatic.net/200000545087/product/cau_nhat_c556196d1a0843e78147a43d72b29413_1024x1024.jpg"
+           src_l="https://product.hstatic.net/200000545087/product/cau_nhat_c556196d1a0843e78147a43d72b29413_1024x1024.jpg"
            width="100%" >}}
 
-{{< image src="https://caycanhflora.com/wp-content/uploads/2021/10/cay-cau-kieng.jpg"
+{{< image src="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/12/27/dua-canh-cay-canh-plantdrop4-17353352938651452111168.jpg"
            alt="Cây Cau Cảnh trang trí nội thất"
            caption="Cây Cau Cảnh được sử dụng trong thiết kế nội thất hiện đại"
-           src_s="https://caycanhflora.com/wp-content/uploads/2021/10/cay-cau-kieng.jpg"
-           src_l="https://caycanhflora.com/wp-content/uploads/2021/10/cay-cau-kieng.jpg"
+           src_s="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/12/27/dua-canh-cay-canh-plantdrop4-17353352938651452111168.jpg"
+           src_l="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/12/27/dua-canh-cay-canh-plantdrop4-17353352938651452111168.jpg"
            width="100%" >}}
 
-{{< image src="https://viewgarden.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg"
+{{< image src="https://cayxanh.us/wp-content/uploads/2023/12/cay-dua-canh-trong-cong-trinh-hanh-lang-4-768x1024.jpg"
            alt="Cây Cau Cảnh nhiều thân"
            caption="Cau Cảnh trồng cụm tạo dáng đẹp trong sân vườn"
-           src_s="https://viewgarden.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg"
-           src_l="https://viewgarden.vn/wp-content/uploads/2021/10/cay-cau-canh.jpg"
+           src_s="https://cayxanh.us/wp-content/uploads/2023/12/cay-dua-canh-trong-cong-trinh-hanh-lang-4-768x1024.jpg"
+           src_l="https://cayxanh.us/wp-content/uploads/2023/12/cay-dua-canh-trong-cong-trinh-hanh-lang-4-768x1024.jpg"
            width="100%" >}}
 
 ## Xem thêm
