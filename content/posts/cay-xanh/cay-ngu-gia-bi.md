@@ -2,7 +2,7 @@
 title = 'Cây Ngũ Gia Bì'
 date = 2025-04-01T13:45:00+07:00
 summary = 'Cây Ngũ Gia Bì (*Schefflera heptaphylla*) là loài cây cảnh phong thủy phổ biến tại Việt Nam, mang ý nghĩa đoàn kết và may mắn.'
-featuredImage = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Schefflera_heptaphylla.jpg'
+featuredImage = 'https://cdn.tgdd.vn/Files/2021/07/30/1371826/y-nghia-tac-dung-va-cach-trong-cay-ngu-gia-bi-202107301214179546.jpg'
 categories = ['cay-xanh']
 tags = ['Cây cảnh', 'Phong thủy']
 +++
@@ -58,7 +58,19 @@ Ngũ Gia Bì tượng trưng cho sự bền vững, ổn định, mang lại bì
 
 ## Một số hình ảnh
 
-(Phần này sẽ được cập nhật sau)
+{{< image src="https://cdn.tgdd.vn/Files/2021/07/30/1371826/cay-ngu-gia-bi-dac-diem-y-nghia-cach-trong-cham-soc-tai-nha-202301051419551038.jpeg"
+           alt="Cây Ngũ Gia Bì xanh"
+           caption="Cây Ngũ Gia Bì xanh trong chậu, lá xanh mướt"
+           src_s="https://cdn.tgdd.vn/Files/2021/07/30/1371826/cay-ngu-gia-bi-dac-diem-y-nghia-cach-trong-cham-soc-tai-nha-202301051419551038.jpeg"
+           src_l="https://cdn.tgdd.vn/Files/2021/07/30/1371826/cay-ngu-gia-bi-dac-diem-y-nghia-cach-trong-cham-soc-tai-nha-202301051419551038.jpeg"
+           width="100%" >}}
+
+{{< image src="https://cdn.tgdd.vn/Files/2022/05/19/1433551/cay-ngu-gia-bi-co-may-loai-loai-nao-duoc-ua-chuong-hon-hien-nay-202205190642275347.jpg"
+           alt="Cây Ngũ Gia Bì cẩm thạch"
+           caption="Phiên bản Ngũ Gia Bì cẩm thạch với lá pha trắng đẹp mắt"
+           src_s="https://cdn.tgdd.vn/Files/2022/05/19/1433551/cay-ngu-gia-bi-co-may-loai-loai-nao-duoc-ua-chuong-hon-hien-nay-202205190642275347.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/05/19/1433551/cay-ngu-gia-bi-co-may-loai-loai-nao-duoc-ua-chuong-hon-hien-nay-202205190642275347.jpg"
+           width="100%" >}}
 
 ## Xem thêm
 
