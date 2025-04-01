@@ -1,8 +1,8 @@
 +++
 title = 'Cây Bàng'
-date = 2025-04-01T14:15:00+07:00
+date = 2025-03-26T14:15:00+07:00
 summary = 'Cây Bàng (*Terminalia catappa*) là cây bóng mát quen thuộc trong sân trường, công viên, nổi bật với tán lá rộng và khả năng thích nghi cao.'
-featuredImage = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Terminalia_catappa_tree.jpg'
+featuredImage = 'https://hoadepviet.com/wp-content/uploads/2017/11/cay_bang-4.jpg'
 categories = ['cay-xanh']
 tags = ['Cây bóng mát', 'Cây thân gỗ']
 +++
@@ -58,32 +58,32 @@ Trong văn hóa Việt Nam, cây bàng là biểu tượng quen thuộc của m�
 
 ## Một số hình ảnh
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Terminalia_catappa_tree.jpg"
+{{< image src="https://file.huengaynay.vn/data/0/images/2024/02/17/upload_3871/cay-bang-1-1.jpg?dpi=150&quality=100&w=850"
            alt="Cây Bàng trưởng thành"
            caption="Cây Bàng trưởng thành với tán lá rộng"
-           src_s="https://upload.wikimedia.org/wikipedia/commons/3/3f/Terminalia_catappa_tree.jpg"
-           src_l="https://upload.wikimedia.org/wikipedia/commons/3/3f/Terminalia_catappa_tree.jpg"
+           src_s="https://file.huengaynay.vn/data/0/images/2024/02/17/upload_3871/cay-bang-1-1.jpg?dpi=150&quality=100&w=850"
+           src_l="https://file.huengaynay.vn/data/0/images/2024/02/17/upload_3871/cay-bang-1-1.jpg?dpi=150&quality=100&w=850"
            width="100%" >}}
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/4/47/Terminalia_catappa_leaves.jpg"
+{{< image src="https://prod-cdn.pharmacity.io/blog/la-bang-co-tac-dung-gi-hinh-3-1024x683.jpg"
            alt="Lá cây Bàng"
            caption="Lá cây Bàng xanh đậm, hình trứng"
-           src_s="https://upload.wikimedia.org/wikipedia/commons/4/47/Terminalia_catappa_leaves.jpg"
-           src_l="https://upload.wikimedia.org/wikipedia/commons/4/47/Terminalia_catappa_leaves.jpg"
+           src_s="https://prod-cdn.pharmacity.io/blog/la-bang-co-tac-dung-gi-hinh-3-1024x683.jpg"
+           src_l="https://prod-cdn.pharmacity.io/blog/la-bang-co-tac-dung-gi-hinh-3-1024x683.jpg"
            width="100%" >}}
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Terminalia_catappa_flower.jpg"
+{{< image src="https://caycanh247.com/wp-content/uploads/2022/07/cay-bang-1.1.jpg"
            alt="Hoa cây Bàng"
            caption="Hoa nhỏ màu trắng hơi xanh của cây Bàng"
-           src_s="https://upload.wikimedia.org/wikipedia/commons/5/5e/Terminalia_catappa_flower.jpg"
-           src_l="https://upload.wikimedia.org/wikipedia/commons/5/5e/Terminalia_catappa_flower.jpg"
+           src_s="https://caycanh247.com/wp-content/uploads/2022/07/cay-bang-1.1.jpg"
+           src_l="https://caycanh247.com/wp-content/uploads/2022/07/cay-bang-1.1.jpg"
            width="100%" >}}
 
-{{< image src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Terminalia_catappa_fruit.jpg"
+{{< image src="https://kenh14cdn.com/thumb_w/660/2018/9/6/8-1536229021033631867272.jpg"
            alt="Quả cây Bàng"
            caption="Quả Bàng chín màu đỏ với hạt bên trong"
-           src_s="https://upload.wikimedia.org/wikipedia/commons/6/6e/Terminalia_catappa_fruit.jpg"
-           src_l="https://upload.wikimedia.org/wikipedia/commons/6/6e/Terminalia_catappa_fruit.jpg"
+           src_s="https://kenh14cdn.com/thumb_w/660/2018/9/6/8-1536229021033631867272.jpg"
+           src_l="https://kenh14cdn.com/thumb_w/660/2018/9/6/8-1536229021033631867272.jpg"
            width="100%" >}}
 
 ## Xem thêm
