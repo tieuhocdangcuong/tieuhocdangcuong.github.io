@@ -3,7 +3,7 @@ title = 'Cây Hoa Giấy'
 date = 2025-04-01T16:10:00+07:00
 summary = 'Cây Hoa Giấy (*Bougainvillea*) là loài cây cảnh leo thân gỗ với sắc hoa rực rỡ, được yêu thích để trang trí cổng nhà, hàng rào, ban công và sân vườn.'
 featuredImage = 'https://hoadepviet.com/wp-content/uploads/2020/09/hoa-giay-treo.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây hoa cảnh', 'Cây leo', 'Cây trang trí']
 +++
 
