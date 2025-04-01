@@ -1,8 +1,8 @@
 +++
 title = 'Cây Hoa Giấy'
-date = 2025-04-01T16:10:00+07:00
+date = 2025-03-26T16:10:00+07:00
 summary = 'Cây Hoa Giấy (*Bougainvillea*) là loài cây cảnh leo thân gỗ với sắc hoa rực rỡ, được yêu thích để trang trí cổng nhà, hàng rào, ban công và sân vườn.'
-featuredImage = 'https://hoadepviet.com/wp-content/uploads/2020/09/hoa-giay-treo.jpg'
+featuredImage = 'https://tiki.vn/blog/wp-content/uploads/2023/12/hoa-giay-thumbnail-1-696x464.jpg'
 categories = ['cay-xanh']
 tags = ['Cây hoa cảnh', 'Cây leo', 'Cây trang trí']
 +++
@@ -62,32 +62,32 @@ Trong phong thủy, Hoa Giấy mang ý nghĩa bảo vệ, xua đuổi điều x�
 
 ## Một số hình ảnh
 
-{{< image src="https://hoadepviet.com/wp-content/uploads/2020/09/hoa-giay-treo.jpg"
+{{< image src="https://cdnphoto.dantri.com.vn/cHH9Ol387QnPl8rikll7S8PnIog=/thumb_w/960/2020/08/13/me-dam-kheo-tay-ho-bien-ban-cong-thanh-khu-vuon-hoa-giay-ngap-tran-huong-sacdocx-1597330525532.jpeg"
            alt="Hoa Giấy treo ban công"
            caption="Hoa Giấy treo rủ mềm mại trên ban công"
-           src_s="https://hoadepviet.com/wp-content/uploads/2020/09/hoa-giay-treo.jpg"
-           src_l="https://hoadepviet.com/wp-content/uploads/2020/09/hoa-giay-treo.jpg"
+           src_s="https://cdnphoto.dantri.com.vn/cHH9Ol387QnPl8rikll7S8PnIog=/thumb_w/960/2020/08/13/me-dam-kheo-tay-ho-bien-ban-cong-thanh-khu-vuon-hoa-giay-ngap-tran-huong-sacdocx-1597330525532.jpeg"
+           src_l="https://cdnphoto.dantri.com.vn/cHH9Ol387QnPl8rikll7S8PnIog=/thumb_w/960/2020/08/13/me-dam-kheo-tay-ho-bien-ban-cong-thanh-khu-vuon-hoa-giay-ngap-tran-huong-sacdocx-1597330525532.jpeg"
            width="100%" >}}
 
-{{< image src="https://vuoncayviet.com/wp-content/uploads/2020/06/cay-hoa-giay-bonsai.jpg"
+{{< image src="https://hoadepviet.com/wp-content/uploads/2023/04/shutterstock_3496371-1-1024x980-1.jpg"
            alt="Hoa Giấy bonsai"
            caption="Tạo dáng nghệ thuật với cây Hoa Giấy bonsai"
-           src_s="https://vuoncayviet.com/wp-content/uploads/2020/06/cay-hoa-giay-bonsai.jpg"
-           src_l="https://vuoncayviet.com/wp-content/uploads/2020/06/cay-hoa-giay-bonsai.jpg"
+           src_s="https://hoadepviet.com/wp-content/uploads/2023/04/shutterstock_3496371-1-1024x980-1.jpg"
+           src_l="https://hoadepviet.com/wp-content/uploads/2023/04/shutterstock_3496371-1-1024x980-1.jpg"
            width="100%" >}}
 
-{{< image src="https://dothocamtay.vn/wp-content/uploads/2022/06/hoa-giay-leo-hang-rao.jpg"
+{{< image src="https://tdtu.edu.vn/sites/www/files/articles/2018/Mar/hoa-giay/hoa-giay-2.jpg"
            alt="Hoa Giấy trồng hàng rào"
            caption="Hoa Giấy thường được trồng làm hàng rào sống"
-           src_s="https://dothocamtay.vn/wp-content/uploads/2022/06/hoa-giay-leo-hang-rao.jpg"
-           src_l="https://dothocamtay.vn/wp-content/uploads/2022/06/hoa-giay-leo-hang-rao.jpg"
+           src_s="https://tdtu.edu.vn/sites/www/files/articles/2018/Mar/hoa-giay/hoa-giay-2.jpg"
+           src_l="https://tdtu.edu.vn/sites/www/files/articles/2018/Mar/hoa-giay/hoa-giay-2.jpg"
            width="100%" >}}
 
-{{< image src="https://thongtinnhadat.org/wp-content/uploads/2023/07/hoa-giay-cay-canh-dep.jpg"
+{{< image src="https://hoadepviet.com/wp-content/uploads/2021/05/315559820_1999812013742849_4293475750747267093_n.jpg"
            alt="Hoa Giấy nhiều màu"
            caption="Sự đa dạng về màu sắc khiến Hoa Giấy thêm cuốn hút"
-           src_s="https://thongtinnhadat.org/wp-content/uploads/2023/07/hoa-giay-cay-canh-dep.jpg"
-           src_l="https://thongtinnhadat.org/wp-content/uploads/2023/07/hoa-giay-cay-canh-dep.jpg"
+           src_s="https://hoadepviet.com/wp-content/uploads/2021/05/315559820_1999812013742849_4293475750747267093_n.jpg"
+           src_l="https://hoadepviet.com/wp-content/uploads/2021/05/315559820_1999812013742849_4293475750747267093_n.jpg"
            width="100%" >}}
 
 ## Xem thêm
