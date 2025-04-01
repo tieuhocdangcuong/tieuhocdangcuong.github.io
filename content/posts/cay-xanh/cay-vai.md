@@ -2,7 +2,7 @@
 title = 'Cây Vải'
 date = 2025-03-26T18:05:00+07:00
 summary = 'Cây Vải (*Litchi chinensis*) là cây ăn quả nổi tiếng với quả ngọt, thơm và là đặc sản của nhiều vùng miền Việt Nam.'
-featuredImage = 'https://congtydelta.com/uploads/images/cay-vai.jpg'
+featuredImage = 'https://congtydelta.com/public/upload/images/57fe87aa80dd79913f8d774a5a17e7b1.jpg'
 categories = ['cay-xanh']
 tags = ['Cây ăn quả', 'Cây kinh tế', 'Cây truyền thống']
 +++
@@ -63,18 +63,18 @@ Vải là biểu tượng của mùa hè, no đủ và nông sản đặc sản 
 
 ## Một số hình ảnh
 
-{{< image src="https://congtydelta.com/uploads/images/cay-vai.jpg"
+{{< image src="https://congtydelta.com/public/upload/images/57fe87aa80dd79913f8d774a5a17e7b1.jpg"
            alt="Cây Vải trưởng thành"
            caption="Cây Vải trưởng thành tán rộng, quả ra thành chùm sai"
-           src_s="https://congtydelta.com/uploads/images/cay-vai.jpg"
-           src_l="https://congtydelta.com/uploads/images/cay-vai.jpg"
+           src_s="https://congtydelta.com/public/upload/images/57fe87aa80dd79913f8d774a5a17e7b1.jpg"
+           src_l="https://congtydelta.com/public/upload/images/57fe87aa80dd79913f8d774a5a17e7b1.jpg"
            width="100%" >}}
 
-{{< image src="https://mobiagri.vn/wp-content/uploads/2021/08/cay-vai-1.jpg"
+{{< image src="https://congtydelta.com/public/upload/images/vai-thieu.jpg"
            alt="Quả Vải chín mọng"
            caption="Quả Vải chín có vỏ đỏ, thịt trắng mọng nước"
-           src_s="https://mobiagri.vn/wp-content/uploads/2021/08/cay-vai-1.jpg"
-           src_l="https://mobiagri.vn/wp-content/uploads/2021/08/cay-vai-1.jpg"
+           src_s="https://congtydelta.com/public/upload/images/vai-thieu.jpg"
+           src_l="https://congtydelta.com/public/upload/images/vai-thieu.jpg"
            width="100%" >}}
 
 ## Xem thêm
