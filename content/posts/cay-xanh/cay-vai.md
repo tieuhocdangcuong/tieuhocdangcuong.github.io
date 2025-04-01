@@ -1,6 +1,6 @@
 +++
 title = 'Cây Vải'
-date = 2025-04-01T18:05:00+07:00
+date = 2025-03-26T18:05:00+07:00
 summary = 'Cây Vải (*Litchi chinensis*) là cây ăn quả nổi tiếng với quả ngọt, thơm và là đặc sản của nhiều vùng miền Việt Nam.'
 featuredImage = 'https://congtydelta.com/uploads/images/cay-vai.jpg'
 categories = ['cay-xanh']
