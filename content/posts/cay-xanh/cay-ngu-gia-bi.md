@@ -3,7 +3,7 @@ title = 'Cây Ngũ Gia Bì'
 date = 2025-04-01T13:45:00+07:00
 summary = 'Cây Ngũ Gia Bì (*Schefflera heptaphylla*) là loài cây cảnh phong thủy phổ biến tại Việt Nam, mang ý nghĩa đoàn kết và may mắn.'
 featuredImage = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Schefflera_heptaphylla.jpg'
-categories = ['Cây xanh']
+categories = ['cay-xanh']
 tags = ['Cây cảnh', 'Phong thủy']
 +++
 
