@@ -3,7 +3,7 @@ title = 'Cây Sơn Liễu'
 date = 2025-04-01T12:04:30+07:00
 summary = 'Cây Sơn Liễu (*Phyllanthus cochinchinensis*) là loài cây cảnh phổ biến, được ưa chuộng nhờ vẻ đẹp thanh thoát và ý nghĩa phong thủy tích cực.'
 featuredImage = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Phyllanthus_cochinchinensis.jpg'
-categories = ['cây xanh']
+categories = ['cay-xanh']
 tags = ['cây cảnh', 'phong thủy']
 +++
 
