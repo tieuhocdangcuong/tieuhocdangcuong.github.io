@@ -1,0 +1,117 @@
+{{ $height := .Get "height" | default "400px" }}
+{{ $mobile_height := .Get "mobile_height" | default "200px" }}
+
+<div class="embla">
+  <div class="embla__viewport">
+    <div class="embla__container">
+      {{ range (split .Inner "---")}}
+      {{ $content := . }}
+      {{ if $content }}
+      <div class="embla__slide">
+        {{ $content | safeHTML}}
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="embla__controls">
+    <div class="embla__buttons">
+      <a class="embla__button embla__button--prev" href="#">
+        <i class="fas fa-angle-left fa-fw"></i>
+      </a>
+
+      <a class="embla__button embla__button--next" href="#">
+        <i class="fas fa-angle-right fa-fw"></i>
+      </a>
+    </div>
+    <div class="embla__dots"></div>
+</div>
+
+<style>
+  .embla {
+    overflow: hidden;
+  }
+  .embla__container {
+    display: flex;
+  }
+  .embla__slide {
+    flex: 0 0 auto;
+    margin-right: 5px;
+  }
+
+  .embla__slide figure {
+    margin: 0 !important;
+  }
+  .embla__slide img {
+    height: {{ $height }} !important;
+  }
+@media only screen and (max-width: 680px) {
+  .embla__slide img {
+    height: {{ $mobile_height }} !important;
+  }
+}
+
+  .embla__controls {
+    display: grid;
+  }
+  .embla__buttons {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+  }
+  .embla .embla__buttons .embla__button {
+    display: block;
+    color: #a9a9b3;
+    background: #f8f8f8;
+
+    &:hover, &:active {
+      Color: #161209;
+      cursor: pointer;
+    }
+
+    &:active, &:focus, &:hover {
+      outline: none;
+    }
+
+    [theme=dark] & {
+      color: #5d5d5f;
+      background: #252627;
+
+      &:hover, &:active {
+        color: #a9a9b3;
+      }
+    }
+  }
+</style>
+
+<script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js"></script>
+<script src="https://unpkg.com/embla-carousel-autoplay/embla-carousel-autoplay.umd.js"></script>
+<script src="https://unpkg.com/embla-carousel-fade/embla-carousel-fade.umd.js"></script>
+
+<script type="text/javascript">
+  const rootNode = document.querySelector('.embla')
+  const viewportNode = rootNode.querySelector('.embla__viewport')
+  const prevButtonNode = rootNode.querySelector('.embla__button--prev')
+  const nextButtonNode = rootNode.querySelector('.embla__button--next')
+
+  const options = {
+    loop: true,
+    duration: 30,
+    align: 'center',
+    containScroll: false
+  };
+  const embla = EmblaCarousel(viewportNode, options, [
+    EmblaCarouselAutoplay({ delay: 4000 }),
+    EmblaCarouselFade()
+  ]);
+
+  prevButtonNode.addEventListener('click', event => {
+    event.preventDefault();
+    embla.scrollPrev();
+  });
+  nextButtonNode.addEventListener('click', event => {
+    event.preventDefault();
+    embla.scrollNext();
+  });
+</script>
