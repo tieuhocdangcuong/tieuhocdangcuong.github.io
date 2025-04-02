@@ -70,11 +70,11 @@ Tên "râm bụt" trong dân gian gợi sự gần gũi, thân thuộc. Hoa bi�
            src_l="https://thienduonghoa.com.vn/Uploads/958/images/516b4332995e4c00154f(1).jpg"
            width="100%" >}}
 
-{{< image src="https://media.phunutoday.vn/files/content/2023/12/24/dam-but4-1156.png"
+{{< image src="https://cdn.eva.vn/upload/4-2021/images/2021-12-03/image2-1638497961-918-width600height375.jpg"
            alt="Hoa râm bụt đỏ"
            caption="Hoa râm bụt đỏ – biểu tượng làng quê Việt Nam"
-           src_s="https://media.phunutoday.vn/files/content/2023/12/24/dam-but4-1156.png"
-           src_l="https://media.phunutoday.vn/files/content/2023/12/24/dam-but4-1156.png"
+           src_s="https://cdn.eva.vn/upload/4-2021/images/2021-12-03/image2-1638497961-918-width600height375.jpg"
+           src_l="https://cdn.eva.vn/upload/4-2021/images/2021-12-03/image2-1638497961-918-width600height375.jpg"
            width="100%" >}}
 
 ## Xem thêm
