@@ -83,12 +83,6 @@ Cây tượng trưng cho sự phát triển thăng tiến, sự bình yên và t
            src_l="https://danviet.ex-cdn.com/files/f1/296231569849192448/2024/12/27/dua-canh-cay-canh-plantdrop4-17353352938651452111168.jpg"
            width="100%" >}}
 
-{{< image src="https://cayxanh.us/wp-content/uploads/2023/12/cay-dua-canh-trong-cong-trinh-hanh-lang-4-768x1024.jpg"
-           alt="Cây Cau Cảnh nhiều thân"
-           caption="Cau Cảnh trồng cụm tạo dáng đẹp trong sân vườn"
-           src_s="https://cayxanh.us/wp-content/uploads/2023/12/cay-dua-canh-trong-cong-trinh-hanh-lang-4-768x1024.jpg"
-           src_l="https://cayxanh.us/wp-content/uploads/2023/12/cay-dua-canh-trong-cong-trinh-hanh-lang-4-768x1024.jpg"
-           width="100%" >}}
 
 ## Xem thêm
 
