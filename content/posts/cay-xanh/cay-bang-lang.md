@@ -69,11 +69,11 @@ Cây bằng lăng gắn liền với ký ức tuổi học trò. Là biểu tư�
            src_l="https://lamvuon.net/wp-content/uploads/2020/09/hoa-bang-lang-thumb.jpg"
            width="100%" >}}
 
-{{< image src="http://thcsnguyenhuytuong.pgd-donganh.edu.vn/upload/23708/fck/hanoi-thcsnguyenhuytuong/S%C3%A2n%20tr%C6%B0%E1%BB%9Dng_m%C3%B9a%20h%C3%A8%201.jpg"
+{{< image src="https://afamilycdn.com/2019/12/25/photo-3-15772833422311231023057-1577284833263-157728483326438799077.jpg"
            alt="Tán bằng lăng"
            caption="Cây bằng lăng tạo bóng mát, tán đẹp, thích hợp trồng trường học"
-           src_s="http://thcsnguyenhuytuong.pgd-donganh.edu.vn/upload/23708/fck/hanoi-thcsnguyenhuytuong/S%C3%A2n%20tr%C6%B0%E1%BB%9Dng_m%C3%B9a%20h%C3%A8%201.jpg"
-           src_l="http://thcsnguyenhuytuong.pgd-donganh.edu.vn/upload/23708/fck/hanoi-thcsnguyenhuytuong/S%C3%A2n%20tr%C6%B0%E1%BB%9Dng_m%C3%B9a%20h%C3%A8%201.jpg"
+           src_s="https://afamilycdn.com/2019/12/25/photo-3-15772833422311231023057-1577284833263-157728483326438799077.jpg"
+           src_l="https://afamilycdn.com/2019/12/25/photo-3-15772833422311231023057-1577284833263-157728483326438799077.jpg"
            width="100%" >}}
 
 ## Xem thêm
