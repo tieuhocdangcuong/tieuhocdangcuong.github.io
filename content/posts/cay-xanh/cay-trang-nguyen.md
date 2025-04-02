@@ -80,7 +80,7 @@ Cây tượng trưng cho trí tuệ, sự vươn lên và thành công. Màu đ�
            alt="Lá bắc đỏ cây Trạng Nguyên"
            caption="Lá bắc đỏ thường bị nhầm với cánh hoa"
            src_s="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032265799.jpg"
-           src_l="hhttps://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032265799.jpg"
+           src_l="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221032265799.jpg"
            width="100%" >}}
 
 {{< image src="https://cdn.tgdd.vn/Files/2022/01/22/1412199/y-nghia-phong-thuy-cach-trong-cay-trang-nguyen-don-tet-202201221036329846.jpg"
