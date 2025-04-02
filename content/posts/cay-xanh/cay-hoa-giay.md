@@ -62,13 +62,6 @@ Trong phong thủy, Hoa Giấy mang ý nghĩa bảo vệ, xua đuổi điều x�
 
 ## Một số hình ảnh
 
-{{< image src="https://cdnphoto.dantri.com.vn/cHH9Ol387QnPl8rikll7S8PnIog=/thumb_w/960/2020/08/13/me-dam-kheo-tay-ho-bien-ban-cong-thanh-khu-vuon-hoa-giay-ngap-tran-huong-sacdocx-1597330525532.jpeg"
-           alt="Hoa Giấy treo ban công"
-           caption="Hoa Giấy treo rủ mềm mại trên ban công"
-           src_s="https://cdnphoto.dantri.com.vn/cHH9Ol387QnPl8rikll7S8PnIog=/thumb_w/960/2020/08/13/me-dam-kheo-tay-ho-bien-ban-cong-thanh-khu-vuon-hoa-giay-ngap-tran-huong-sacdocx-1597330525532.jpeg"
-           src_l="https://cdnphoto.dantri.com.vn/cHH9Ol387QnPl8rikll7S8PnIog=/thumb_w/960/2020/08/13/me-dam-kheo-tay-ho-bien-ban-cong-thanh-khu-vuon-hoa-giay-ngap-tran-huong-sacdocx-1597330525532.jpeg"
-           width="100%" >}}
-
 {{< image src="https://hoadepviet.com/wp-content/uploads/2023/04/shutterstock_3496371-1-1024x980-1.jpg"
            alt="Hoa Giấy bonsai"
            caption="Tạo dáng nghệ thuật với cây Hoa Giấy bonsai"
