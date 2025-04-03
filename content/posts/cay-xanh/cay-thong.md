@@ -1,5 +1,5 @@
 +++
-title = 'Cây thông'
+title = 'Cây Thông'
 date = 2025-03-26T14:10:00+07:00
 summary = 'Cây thông là loài cây thân gỗ lá kim, thường xanh quanh năm, được trồng nhiều ở vùng đồi núi và có giá trị sinh thái, cảnh quan cao.'
 featuredImage = 'https://cdn.tgdd.vn/Files/2022/05/19/1433687/cay-thong-la-kim-la-cay-gi-dac-diem-va-cac-loai-thong-la-kim-o-viet-nam-202207071516327778.jpg'
