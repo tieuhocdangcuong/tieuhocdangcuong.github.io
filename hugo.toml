@@ -37,6 +37,10 @@ defaultContentLanguage = 'vi'
     name = 'Cây xanh'
     pageRef = '/categories/cay-xanh/'
     weight = 2
+  [[menu.main]]
+    name = 'Tags'
+    pageRef = '/tags/'
+    weight = 3
 
 # Markup related configuration in Hugo
 [markup]
