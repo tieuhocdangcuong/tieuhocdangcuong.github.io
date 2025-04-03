@@ -12,6 +12,7 @@ defaultContentLanguage = 'vi'
   [params.header]
     [params.header.title]
       name = 'Chi đoàn Trường Tiểu học Đặng Cương'
+      pre = '<img width="30px" src="https://upload.wikimedia.org/wikipedia/vi/0/09/Huy_Hi%E1%BB%87u_%C4%90o%C3%A0n.png" />'
       typeIt = true
   [params.home]
     [params.home.profile]

@@ -5,8 +5,15 @@
 
 #header-mobile .header-container .header-wrapper .header-title {
   font-weight: 600;
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   max-width: 100%;
+}
+
+#header-mobile .header-container .header-wrapper {
+  padding: 0 0.5rem;
+}
+.header-title-pre img {
+  vertical-align: middle;
 }
 
 .home[data-home=posts] .summary .content {
