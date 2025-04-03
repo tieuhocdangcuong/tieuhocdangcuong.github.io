@@ -3,6 +3,21 @@
 // 自定义样式
 // ==============================
 
+#header-desktop .header-title-post wbr {
+  display: none;
+}
+#header-mobile .header-title a {
+  display: flex;
+  align-items: center;
+
+  & .header-title-post {
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0.5rem 0.1rem;
+  }
+}
+
 #header-mobile .header-container .header-wrapper .header-title {
   font-weight: 600;
   font-size: 1.1rem;
