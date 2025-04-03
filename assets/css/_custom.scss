@@ -8,3 +8,10 @@
   font-size: 1.15rem;
   max-width: 100%;
 }
+
+.home[data-home=posts] .summary .content {
+  color: $global-font-color;
+  [theme=dark] & {
+    color: $global-font-color-dark;
+  }
+}
