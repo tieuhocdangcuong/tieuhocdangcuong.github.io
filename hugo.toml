@@ -27,6 +27,10 @@ defaultContentLanguage = 'vi'
   [params.search]
     enable = true
     type = 'lunr'
+  [params.analytics]
+    enable = true
+    [params.analytics.google]
+      id = 'G-XYQRR5G78M'
 
 [menus]
   [[menu.main]]
