@@ -3,15 +3,20 @@
 // 自定义样式
 // ==============================
 
-#header-mobile .header-title a {
-  display: flex;
-  align-items: center;
+.header-wrapper {
+  height: var(--header-height);
 }
-#header-mobile .header-title-post {
+.header-title a {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+}
+header .header-title-post {
   display: flex;
   flex-wrap: wrap;
   white-space: pre;
-  min-width: 3em;
+  min-width: 0;
+  padding: 0;
 
   & span {
     font-size: 1.1rem;
@@ -19,18 +24,24 @@
     font-weight: 500;
     text-overflow: ellipsis;
     overflow: hidden;
-    max-width: 100%;
   }
 }
 
 #header-mobile .header-container .header-wrapper {
   padding: 0 0.5rem;
+}
 
+#header-mobile .header-container .header-wrapper,
+#header-desktop .header-wrapper {
   & .header-title {
+    display: flex;
     max-width: 100%;
   }
 }
 .header-title-pre img {
+  display: block;
+  width: auto;
+  height: 2rem;
   vertical-align: middle;
 }
 

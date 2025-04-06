@@ -12,7 +12,7 @@ defaultContentLanguage = 'vi'
   [params.header]
     [params.header.title]
       name = ''
-      pre = '<img width="30px" src="https://upload.wikimedia.org/wikipedia/vi/0/09/Huy_Hi%E1%BB%87u_%C4%90o%C3%A0n.png" />'
+      pre = '<img src="https://upload.wikimedia.org/wikipedia/vi/0/09/Huy_Hi%E1%BB%87u_%C4%90o%C3%A0n.png" />'
       post = '<span>Chi đoàn </span><span>Trường Tiểu học Đặng Cương</span>'
   [params.home]
     [params.home.profile]
