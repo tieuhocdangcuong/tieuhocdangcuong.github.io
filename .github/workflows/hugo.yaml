@@ -47,6 +47,11 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Apply patches
+        run: |
+          cd themes/LoveIt
+          git apply ../*.diff
+          cd ../../
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

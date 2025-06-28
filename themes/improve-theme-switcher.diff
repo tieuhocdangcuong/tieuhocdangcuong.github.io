@@ -1,0 +1,89 @@
+diff --git a/assets/css/_core/_header.scss b/assets/css/_core/_header.scss
+index ae385953..6d467630 100644
+--- a/assets/css/_core/_header.scss
++++ b/assets/css/_core/_header.scss
+@@ -143,6 +143,12 @@ header {
+ 
+ .theme-switch i {
+   @include transform(rotate(225deg));
++  [cfg-theme=light] & {
++    --fa: '\f185';
++  }
++  [cfg-theme=dark] & {
++    --fa: '\f186';
++  }
+ }
+ 
+ #header-desktop {
+diff --git a/assets/js/theme.js b/assets/js/theme.js
+index e6c92b9c..b05ef96e 100644
+--- a/assets/js/theme.js
++++ b/assets/js/theme.js
+@@ -128,9 +128,15 @@ var Theme = /*#__PURE__*/function () {
+       var _this2 = this;
+       Util.forEach(document.getElementsByClassName('theme-switch'), function ($themeSwitch) {
+         $themeSwitch.addEventListener('click', function () {
+-          if (document.body.getAttribute('theme') === 'dark') document.body.setAttribute('theme', 'light');else document.body.setAttribute('theme', 'dark');
+-          _this2.isDark = !_this2.isDark;
+-          window.localStorage && localStorage.setItem('theme', _this2.isDark ? 'dark' : 'light');
++          var _window$localStorage;
++          var cfgTheme = document.body.getAttribute('cfg-theme');
++          var theme = document.body.getAttribute('theme');
++          var themes = ['auto', 'light', 'dark'];
++          var newTheme = themes[(themes.indexOf(cfgTheme) + 1) % themes.length];
++          _this2.isDark = newTheme === 'dark' || newTheme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches;
++          document.body.setAttribute('theme', _this2.isDark ? 'dark' : 'light');
++          document.body.setAttribute('cfg-theme', newTheme);
++          (_window$localStorage = window.localStorage) === null || _window$localStorage === void 0 || _window$localStorage.setItem('theme', newTheme);
+           var _iterator = _createForOfIteratorHelper(_this2.switchThemeEventSet),
+             _step;
+           try {
+diff --git a/layouts/_default/baseof.html b/layouts/_default/baseof.html
+index bd3a26c8..dd27638e 100644
+--- a/layouts/_default/baseof.html
++++ b/layouts/_default/baseof.html
+@@ -15,7 +15,18 @@
+     <body data-header-desktop="{{ .Site.Params.header.desktopMode }}" data-header-mobile="{{ .Site.Params.header.mobileMode }}">
+         {{- /* Check theme isDark before body rendering */ -}}
+         {{- $theme := .Site.Params.defaulttheme -}}
+-        <script>(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('{{ $theme }}' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : '{{ $theme }}' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
++        <script>
++          const query = window.matchMedia('(prefers-color-scheme: dark)');
++          function applyTheme() {
++            let theme = window.localStorage?.getItem('theme') || '{{ $theme }}';
++            let isDark = theme === 'dark' || (theme === 'auto' && query.matches);
++            document.body.setAttribute('theme', isDark? 'dark' : 'light');
++            document.body.setAttribute('cfg-theme', theme);
++          }
++
++          applyTheme();
++          query.addEventListener('change', applyTheme);
++        </script>
+ 
+         <div id="mask"></div>
+ 
+diff --git a/src/js/theme.js b/src/js/theme.js
+index 9aa728b7..d758f399 100644
+--- a/src/js/theme.js
++++ b/src/js/theme.js
+@@ -88,10 +88,16 @@ class Theme {
+     initSwitchTheme() {
+         Util.forEach(document.getElementsByClassName('theme-switch'), $themeSwitch => {
+             $themeSwitch.addEventListener('click', () => {
+-                if (document.body.getAttribute('theme') === 'dark') document.body.setAttribute('theme', 'light');
+-                else document.body.setAttribute('theme', 'dark');
+-                this.isDark = !this.isDark;
+-                window.localStorage && localStorage.setItem('theme', this.isDark ? 'dark' : 'light');
++                const cfgTheme = document.body.getAttribute('cfg-theme');
++                const theme = document.body.getAttribute('theme');
++
++                const themes = ['auto', 'light' ,'dark'];
++                const newTheme = themes[(themes.indexOf(cfgTheme) + 1) % themes.length];
++
++                this.isDark = newTheme === 'dark' || (newTheme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
++                document.body.setAttribute('theme', this.isDark ? 'dark' : 'light');
++                document.body.setAttribute('cfg-theme', newTheme);
++                window.localStorage?.setItem('theme', newTheme);
+                 for (let event of this.switchThemeEventSet) event();
+             }, false);
+         });
